@@ -8,14 +8,19 @@
 - application of machine learning to prediction problems
 
 # people
-- Dr Chris Sainsbury, Consultant Diabetes & Endocrinology, @csainsbury, x@y where x=c & y=glu.im
-- Dr Greg Jones, Consultant Diabetes & Endocrinology, Honorary Associate Professor, @gregcjones, x@y where x=g.jones3 & y=nhs.net
-- Dr Debbie Morrison, GPSI Diabetes, Honorary Clinical Lecturer
+- __Dr Chris Sainsbury__, Consultant Diabetes & Endocrinology, @csainsbury, x@y where x=c & y=glu.im
+- __Dr Greg Jones__, Consultant Diabetes & Endocrinology, Honorary Associate Professor, @gregcjones, x@y where x=g.jones3 & y=nhs.net
+- __Dr Debbie Morrison__, GPSI Diabetes, Honorary Clinical Lecturer
 
 # output
+__2017__
 [Hypoglycemia and Clinical Outcomes in Hospitalized Patients With Diabetes: Does Association With Adverse Outcomes Remain When Number of Glucose Tests Performed Is Accounted For?
 GC Jones, JG Timmons, SG Cunningham, SJ Cleland, CAR Sainsbury
-Journal of Diabetes Science and Technology](http://journals.sagepub.com/doi/abs/10.1177/1932296816688012)
+Journal of Diabetes Science and Technology. DOI: https://doi.org/10.1177/1932296816688012](http://journals.sagepub.com/doi/abs/10.1177/1932296816688012)
+
+[A Practical Approach to Glucose Abnormalities in Cystic Fibrosis
+GC Jones, CAR Sainsbury
+Diabetes Therapy, 1-10](https://link.springer.com/article/10.1007/s13300-016-0205-8)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
