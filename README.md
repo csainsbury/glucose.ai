@@ -43,5 +43,10 @@ __2016__
 JG Timmons, SG Cunningham, CAR Sainsbury, GC Jones
 Journal of Diabetes and its Complications](http://www.sciencedirect.com/science/article/pii/S1056872716302148)
 
+__2015__
+[Capillary blood glucose monitoring, inpatient hypoglycaemia and quality of care
+GC Jones, CG Perry, A Monaghan, B Kennon, CAR Sainsbury
+British Journal of Diabetes 15 (1), 24-26](http://www.bjd-abcd.com/index.php/bjd/article/view/50)
+
 
 
