@@ -1,4 +1,4 @@
-# gartnavel general diabetes team
+# interest areas
 
 - inpatient glucose measurement and analysis
 - risk stratification of inpatients with diabetes
