@@ -1,14 +1,19 @@
-# diabetes research output from gartnavel general diabetes team, glasgow
+# research output from gartnavel general diabetes team
+- inpatient glucose measurement and analysis
+- risk stratification of inpatients with diabetes
+- association of inpatient glucose metrics and long term outcomes
+- mechanisms linking glucose and CV risk in diabetes
+- problem drug use and diabetes
+- cystic fibrosis related diabetes
+- application of machine learning to prediction problems
 
-areas of interest include:
-– inpatient glucose measurement and analysis
-– risk stratification of inpatients with diabetes
-– association of inpatient glucose metrics and long term outcomes
-– mechanisms linking glucose and CV risk in diabetes
-– problem drug use and diabetes
-– cystic fibrosis related diabetes
+# people
+Dr Chris Sainsbury, Consultant Diabetes & Endocrinology | @csainsbury | x@y where x=c & y=glu.im
+Dr Greg Jones, Consultant Diabetes & Endocrinology, Honorary Associate Professor |@gregcjones |x@y where x=g.jones3 & y=nhs.net
+Dr Debbie Morrison, GPSI Diabetes, Honorary Clinical Lecture
 
-### Markdown
+# output
+Hypoglycemia and Clinical Outcomes in Hospitalized Patients With Diabetes: Does Association With Adverse Outcomes Remain When Number of Glucose Tests Performed Is Accounted For? GC Jones, JG Timmons, SG Cunningham, SJ Cleland, CAR Sainsbury. Journal of Diabetes Science and Technology, 1932296816688012
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
