@@ -8,8 +8,8 @@
 - application of machine learning to prediction problems
 
 # people
-- Dr Chris Sainsbury, Consultant Diabetes & Endocrinology @csainsbury x@y where x=c & y=glu.im
-- Dr Greg Jones, Consultant Diabetes & Endocrinology, Honorary Associate Professor @gregcjones x@y where x=g.jones3 & y=nhs.net
+- Dr Chris Sainsbury, Consultant Diabetes & Endocrinology, @csainsbury, x@y where x=c & y=glu.im
+- Dr Greg Jones, Consultant Diabetes & Endocrinology, Honorary Associate Professor, @gregcjones, x@y where x=g.jones3 & y=nhs.net
 - Dr Debbie Morrison, GPSI Diabetes, Honorary Clinical Lecturer
 
 # output
