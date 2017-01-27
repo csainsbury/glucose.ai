@@ -13,7 +13,9 @@
 - Dr Debbie Morrison, GPSI Diabetes, Honorary Clinical Lecturer
 
 # output
-[Hypoglycemia and Clinical Outcomes in Hospitalized Patients With Diabetes: Does Association With Adverse Outcomes Remain When Number of Glucose Tests Performed Is Accounted For? GC Jones, JG Timmons, SG Cunningham, SJ Cleland, CAR Sainsbury. Journal of Diabetes Science and Technology](http://journals.sagepub.com/doi/abs/10.1177/1932296816688012)
+[Hypoglycemia and Clinical Outcomes in Hospitalized Patients With Diabetes: Does Association With Adverse Outcomes Remain When Number of Glucose Tests Performed Is Accounted For?
+GC Jones, JG Timmons, SG Cunningham, SJ Cleland, CAR Sainsbury
+Journal of Diabetes Science and Technology](http://journals.sagepub.com/doi/abs/10.1177/1932296816688012)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
