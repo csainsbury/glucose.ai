@@ -1,8 +1,12 @@
-## Welcome to GitHub Pages
+# diabetes research output from gartnavel general diabetes team, glasgow
 
-You can use the [editor on GitHub](https://github.com/csainsbury/glucose.ai/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+areas of interest include:
+– inpatient glucose measurement and analysis
+– risk stratification of inpatients with diabetes
+– association of inpatient glucose metrics and long term outcomes
+– mechanisms linking glucose and CV risk in diabetes
+– problem drug use and diabetes
+– cystic fibrosis related diabetes
 
 ### Markdown
 
