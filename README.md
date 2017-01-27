@@ -8,9 +8,9 @@
 - application of machine learning to prediction problems
 
 # people
-- Dr Chris Sainsbury, Consultant Diabetes & Endocrinology | @csainsbury | x@y where x=c & y=glu.im
-- Dr Greg Jones, Consultant Diabetes & Endocrinology, Honorary Associate Professor |@gregcjones |x@y where x=g.jones3 & y=nhs.net
-- Dr Debbie Morrison, GPSI Diabetes, Honorary Clinical Lecture
+- Dr Chris Sainsbury, Consultant Diabetes & Endocrinology @csainsbury x@y where x=c & y=glu.im
+- Dr Greg Jones, Consultant Diabetes & Endocrinology, Honorary Associate Professor @gregcjones x@y where x=g.jones3 & y=nhs.net
+- Dr Debbie Morrison, GPSI Diabetes, Honorary Clinical Lecturer
 
 # output
 [Hypoglycemia and Clinical Outcomes in Hospitalized Patients With Diabetes: Does Association With Adverse Outcomes Remain When Number of Glucose Tests Performed Is Accounted For? GC Jones, JG Timmons, SG Cunningham, SJ Cleland, CAR Sainsbury. Journal of Diabetes Science and Technology](http://journals.sagepub.com/doi/abs/10.1177/1932296816688012)
