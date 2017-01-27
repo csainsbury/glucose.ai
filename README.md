@@ -1,4 +1,5 @@
-# research output from gartnavel general diabetes team
+# gartnavel general diabetes team
+# research output
 - inpatient glucose measurement and analysis
 - risk stratification of inpatients with diabetes
 - association of inpatient glucose metrics and long term outcomes
