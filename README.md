@@ -6,6 +6,7 @@
 - mechanisms linking glucose and CV risk in diabetes
 - problem drug use and diabetes
 - cystic fibrosis related diabetes
+- [cpeptide and risk stratification](https://github.com/csainsbury/cpeptide)
 - application of machine learning to prediction problems
 
 # people
