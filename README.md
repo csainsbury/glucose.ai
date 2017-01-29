@@ -6,6 +6,7 @@
 - mechanisms linking glucose and CV risk in diabetes
 - problem drug use and diabetes
 - cystic fibrosis related diabetes
+- [glycaemic streaming](https://github.com/csainsbury/glycaemicStreaming)
 - [cpeptide and risk stratification](https://github.com/csainsbury/cpeptide)
 - application of machine learning to prediction problems
 
