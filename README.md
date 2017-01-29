@@ -49,6 +49,11 @@ __2015__
 GC Jones, CG Perry, A Monaghan, B Kennon, CAR Sainsbury
 British Journal of Diabetes 15 (1), 24-26](http://www.bjd-abcd.com/index.php/bjd/article/view/50)
 
+__2015__
+[Comment on ‘A justification for less restrictive guidelines on the use of metformin in stable chronic renal failure’
+GC Jones, CAR Sainsbury
+Diabetic Medicine 32 (2), 287-287](http://onlinelibrary.wiley.com/doi/10.1111/dme.12626/abstract)
+
 __2014__
 [Trends in recorded capillary blood glucose and hypoglycaemia in hospitalised patients with diabetes
 GC Jones, H Casey, CG Perry, B Kennon, CAR Sainsbury
@@ -58,3 +63,8 @@ __2014__
 [Numerical simulation of blood flow and pressure drop in the pulmonary arterial and venous circulation
 MU Qureshi, GDA Vaughan, C Sainsbury, M Johnson, CS Peskin, MS Olufsen, NA Hill
 Biomechanics and modeling in mechanobiology 13 (5), 1137-1154](http://link.springer.com/article/10.1007/s10237-014-0563-y)
+
+__2012__
+[Rarefaction and blood pressure in systemic and pulmonary arteries
+MS Olufsen, NA Hill, GDA Vaughan, C Sainsbury, M Johnson
+Journal of fluid mechanics 705, 280-305](http://journals.cambridge.org/article_S0022112012002200)
