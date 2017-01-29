@@ -49,5 +49,12 @@ __2015__
 GC Jones, CG Perry, A Monaghan, B Kennon, CAR Sainsbury
 British Journal of Diabetes 15 (1), 24-26](http://www.bjd-abcd.com/index.php/bjd/article/view/50)
 
+__2014__
+[Trends in recorded capillary blood glucose and hypoglycaemia in hospitalised patients with diabetes
+GC Jones, H Casey, CG Perry, B Kennon, CAR Sainsbury
+Diabetes research and clinical practice 104 (1), 79-83](http://www.sciencedirect.com/science/article/pii/S0168822714000515)
 
-
+__2014__
+[Numerical simulation of blood flow and pressure drop in the pulmonary arterial and venous circulation
+MU Qureshi, GDA Vaughan, C Sainsbury, M Johnson, CS Peskin, MS Olufsen, NA Hill
+Biomechanics and modeling in mechanobiology 13 (5), 1137-1154](http://link.springer.com/article/10.1007/s10237-014-0563-y)
