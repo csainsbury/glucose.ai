@@ -19,7 +19,7 @@
 __2017__
 [Hypoglycemia and Clinical Outcomes in Hospitalized Patients With Diabetes: Does Association With Adverse Outcomes Remain When Number of Glucose Tests Performed Is Accounted For?
 GC Jones, JG Timmons, SG Cunningham, SJ Cleland, CAR Sainsbury
-Journal of Diabetes Science and Technology. DOI: https://doi.org/10.1177/1932296816688012](http://journals.sagepub.com/doi/abs/10.1177/1932296816688012)
+Journal of Diabetes Science and Technology. DOI: https://doi.org/10.1177/1932296816688012](http://journals.sagepub.com/doi/abs/10.1177/1932296816688012) [pdf](http://journals.sagepub.com/doi/pdf/10.1177/1932296816688012)
 
 __2016__
 [A Practical Approach to Glucose Abnormalities in Cystic Fibrosis
