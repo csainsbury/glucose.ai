@@ -54,7 +54,7 @@ Journal of Diabetes and its Complications](http://www.sciencedirect.com/science/
 __2016__
 [Evaluation of a combination of SGLT2 inhibitor and GLP-1 receptor agonist treatment in type 2 diabetes
 Hayden J, Huang F, McConnell LMJ, Sainsbury CAR, Jones GC
-Diabetes & Priamary Care 18 (3): 135-138](http://www.diabetesandprimarycare.co.uk/journal-content/view/evaluation-of-a-combination-of-sglt2-inhibitor-and-glp-1-receptor-agonist-treatment-in-type-2-diabetes)
+Diabetes & Primary Care 18 (3): 135-138](http://www.diabetesandprimarycare.co.uk/journal-content/view/evaluation-of-a-combination-of-sglt2-inhibitor-and-glp-1-receptor-agonist-treatment-in-type-2-diabetes)
 
 __2016__
 [Experience of and predictors of response to dapagliflozin in a real-life cohort of people with type 2 diabetes 
