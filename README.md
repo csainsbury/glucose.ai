@@ -117,7 +117,7 @@ Practical Diabetes 29 (7), 268-268](http://onlinelibrary.wiley.com/doi/10.1002/p
 __2011__
 AMP-activated protein kinase is activated in adipose tissue of individuals with type 2 diabetes treated with metformin: a randomised glycaemia-controlled crossover study
 JG Boyle, PJ Logan, GC Jones, M Small, N Sattar, JMC Connell, ...
-Diabetologia 54 (7), 1799-1809(http://link.springer.com/article/10.1007/s00125-011-2126-4)
+Diabetologia 54 (7), 1799-1809 (http://link.springer.com/article/10.1007/s00125-011-2126-4)
 
 # presentations
 __2016__
