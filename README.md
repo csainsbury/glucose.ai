@@ -88,9 +88,8 @@ MU Qureshi, GDA Vaughan, C Sainsbury, M Johnson, CS Peskin, MS Olufsen, NA Hill
 Biomechanics and modeling in mechanobiology 13 (5), 1137-1154](http://link.springer.com/article/10.1007/s10237-014-0563-y)
 
 __2013__
-[Long-Term and Ultra Long–Term Blood Pressure Variability During Follow-Up and Mortality in 14 522 Patients With HypertensionNovelty and Significance
-CE Hastie, P Jeemon, H Coleman, L McCallum, R Patel, J Dawson, ...
-Hypertension 62 (4), 698-705](http://hyper.ahajournals.org/content/62/4/698.short)
+[Long-Term and Ultra Long–Term Blood Pressure Variability During Follow-Up and Mortality in 14 522 Patients With Hypertension. CE Hastie, P Jeemon, H Coleman, L McCallum, R Patel, J Dawson, W Sloan, P Meredith, GC Jones, S Muir, M Walters, AF Dominiczak, D Morrison, GT McInnes, S Padmanabhan
+Hypertension 62 (4), 698-705](http://hyper.ahajournals.org/content/62/4/698.short) [__(pdf)__](http://hyper.ahajournals.org/content/62/4/698.full.pdf?download=true)
 
 __2012__
 [Rarefaction and blood pressure in systemic and pulmonary arteries
