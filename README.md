@@ -44,7 +44,7 @@ Diabetes Therapy 7 (3), 575-582](http://link.springer.com/article/10.1007/s13300
 __2016__
 [Metformin increases cortisol regeneration by 11βHSD1 in obese men with and without type 2 diabetes mellitus
 Anderson AJ, Andrew R, Homer NZ, Jones GC, Smith K, Livingstone DE, Walker BR, Stimson RH
-J Clin Endocrinol Metab 101 (10): 3787-3793] (https://doi-org.ezproxy.lib.gla.ac.uk/10.1210/jc.2016-2069)
+J Clin Endocrinol Metab 101 (10): 3787-3793](https://doi-org.ezproxy.lib.gla.ac.uk/10.1210/jc.2016-2069)
 
 __2016__
 [Inpatient glycemic variability and long-term mortality in hospitalized patients with type 2 diabetes
@@ -54,14 +54,12 @@ Journal of Diabetes and its Complications](http://www.sciencedirect.com/science/
 __2016__
 [Evaluation of a combination of SGLT2 inhibitor and GLP-1 receptor agonist treatment in type 2 diabetes
 Hayden J, Huang F, McConnell LMJ, Sainsbury CAR, Jones GC
-Diabetes & Priamary Care 18 (3): 135-138]
-(http://www.diabetesandprimarycare.co.uk/journal-content/view/evaluation-of-a-combination-of-sglt2-inhibitor-and-glp-1-receptor-agonist-treatment-in-type-2-diabetes)
+Diabetes & Priamary Care 18 (3): 135-138](http://www.diabetesandprimarycare.co.uk/journal-content/view/evaluation-of-a-combination-of-sglt2-inhibitor-and-glp-1-receptor-agonist-treatment-in-type-2-diabetes)
 
 __2016__
 [Experience of and predictors of response to dapagliflozin in a real-life cohort of people with type 2 diabetes 
 Huang F, Hayden J,, McConnell LMJ, Sainsbury CAR, Jones GC
-Journal of Diabetes Nursing 20 (7): 238-243]
-(http://www.thejournalofdiabetesnursing.co.uk/journal-content/view/experience-of-and-predictors-of-response-to-dapagliflozin-in-a-real-life-cohort-of-people-with-type-2-diabetes)
+Journal of Diabetes Nursing 20 (7): 238-243](http://www.thejournalofdiabetesnursing.co.uk/journal-content/view/experience-of-and-predictors-of-response-to-dapagliflozin-in-a-real-life-cohort-of-people-with-type-2-diabetes)
 
 __2015__
 [Capillary blood glucose monitoring, inpatient hypoglycaemia and quality of care
@@ -96,8 +94,7 @@ Biomechanics and modeling in mechanobiology 13 (5), 1137-1154](http://link.sprin
 __2013__
 [Long-Term and Ultra Long–Term Blood Pressure Variability During Follow-Up and Mortality in 14 522 Patients With HypertensionNovelty and Significance
 CE Hastie, P Jeemon, H Coleman, L McCallum, R Patel, J Dawson, ...
-Hypertension 62 (4), 698-705]
-(http://hyper.ahajournals.org/content/62/4/698.short)
+Hypertension 62 (4), 698-705](http://hyper.ahajournals.org/content/62/4/698.short)
 
 __2012__
 [Rarefaction and blood pressure in systemic and pulmonary arteries
@@ -117,7 +114,7 @@ Practical Diabetes 29 (7), 268-268](http://onlinelibrary.wiley.com/doi/10.1002/p
 __2011__
 [AMP-activated protein kinase is activated in adipose tissue of individuals with type 2 diabetes treated with metformin: a randomised glycaemia-controlled crossover study
 JG Boyle, PJ Logan, GC Jones, M Small, N Sattar, JMC Connell, ...
-Diabetologia 54 (7), 1799-1809] (http://link.springer.com/article/10.1007/s00125-011-2126-4)
+Diabetologia 54 (7), 1799-1809](http://link.springer.com/article/10.1007/s00125-011-2126-4)
 
 # recent presentations
 __2016__
