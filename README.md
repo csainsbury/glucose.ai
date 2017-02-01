@@ -10,8 +10,6 @@
 - [cpeptide and risk stratification](https://github.com/csainsbury/cpeptide)
 - application of machine learning to prediction problems
 
-# presentations
-
 # people
 - __Dr Chris Sainsbury__ Consultant Diabetes & Endocrinology. @csainsbury. x@y where x=c.sainsbury & y=nhs.net
 - __Dr Greg Jones__ Consultant Diabetes & Endocrinology. Honorary Associate Professor, @gregcjones. x@y where x=g.jones3 & y=nhs.net
@@ -72,3 +70,4 @@ __2012__
 [Rarefaction and blood pressure in systemic and pulmonary arteries
 MS Olufsen, NA Hill, GDA Vaughan, C Sainsbury, M Johnson
 Journal of fluid mechanics 705, 280-305](http://journals.cambridge.org/article_S0022112012002200)
+# presentations
