@@ -64,7 +64,7 @@ Journal of Diabetes Nursing 20 (7): 238-243](http://www.thejournalofdiabetesnurs
 __2015__
 [Capillary blood glucose monitoring, inpatient hypoglycaemia and quality of care
 GC Jones, CG Perry, A Monaghan, B Kennon, CAR Sainsbury
-British Journal of Diabetes 15 (1), 24-26](http://www.bjd-abcd.com/index.php/bjd/article/view/50)
+British Journal of Diabetes 15 (1), 24-26](http://www.bjd-abcd.com/index.php/bjd/article/view/50) [__(pdf)__](http://www.bjd-abcd.com/index.php/bjd/article/download/50/117)
 
 __2015__
 [Comment on ‘A justification for less restrictive guidelines on the use of metformin in stable chronic renal failure’
