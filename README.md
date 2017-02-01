@@ -58,7 +58,7 @@ Diabetes & Primary Care 18 (3): 135-138](http://www.diabetesandprimarycare.co.uk
 
 __2016__
 [Experience of and predictors of response to dapagliflozin in a real-life cohort of people with type 2 diabetes 
-Huang F, Hayden J,, McConnell LMJ, Sainsbury CAR, Jones GC
+Huang F, Hayden J, McConnell LMJ, Sainsbury CAR, Jones GC
 Journal of Diabetes Nursing 20 (7): 238-243](http://www.thejournalofdiabetesnursing.co.uk/journal-content/view/experience-of-and-predictors-of-response-to-dapagliflozin-in-a-real-life-cohort-of-people-with-type-2-diabetes)
 
 __2015__
