@@ -80,7 +80,7 @@ GC Jones, H Casey, CG Perry, B Kennon, CAR Sainsbury. Diabetes research and clin
 __2014__
 [Dipeptidyl peptidase 4 inhibitors in routine clinical practice: experiences from a Scottish teaching hospital
 AL Brown, CR Sainsbury, C Fenelon, AB Mullen, GC Jones
-British Journal of Diabetes 14 (4), 134-137](http://bjd-abcd.org.uk/index.php/bjd/article/view/38)
+British Journal of Diabetes 14 (4), 134-137](http://bjd-abcd.org.uk/index.php/bjd/article/view/38) [__(pdf)__](http://bjd-abcd.org.uk/index.php/bjd/article/view/38/92)
 
 __2014__
 [Numerical simulation of blood flow and pressure drop in the pulmonary arterial and venous circulation
