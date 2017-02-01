@@ -72,9 +72,8 @@ GC Jones, CAR Sainsbury
 Diabetic Medicine 32 (2), 287-287](http://onlinelibrary.wiley.com/doi/10.1111/dme.12626/abstract)
 
 __2015__
-[Longitudinal Blood Pressure Control, Long-Term Mortality, and Predictive Utility of Serum Liver Enzymes and Bilirubin in Hypertensive PatientsNovelty and Significance
-L McCallum, J Panniyammakal, CE Hastie, J Hewitt, R Patel, GC Jones, ...
-Hypertension 66 (1), 37-43](http://hyper.ahajournals.org/content/66/1/37.short)
+[Longitudinal Blood Pressure Control, Long-Term Mortality, and Predictive Utility of Serum Liver Enzymes and Bilirubin in Hypertensive Patients. L McCallum, J Panniyammakal, CE Hastie, J Hewitt, R Patel, GC Jones, S Muir, M Walters, N Sattar, AF Dominiczak, S Padmanabhan
+Hypertension 66 (1), 37-43](http://hyper.ahajournals.org/content/66/1/37.short) [__(pdf)__](http://hyper.ahajournals.org/content/66/1/37.full.pdf?download=true)
 
 __2014__
 [Trends in recorded capillary blood glucose and hypoglycaemia in hospitalised patients with diabetes
