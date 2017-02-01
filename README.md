@@ -57,6 +57,12 @@ Hayden J, Huang F, McConnell LMJ, Sainsbury CAR, Jones GC
 Diabetes & Priamary Care 18 (3): 135-138]
 (http://www.diabetesandprimarycare.co.uk/journal-content/view/evaluation-of-a-combination-of-sglt2-inhibitor-and-glp-1-receptor-agonist-treatment-in-type-2-diabetes)
 
+__2016__
+[Experience of and predictors of response to dapagliflozin in a real-life cohort of people with type 2 diabetes 
+Huang F, Hayden J,, McConnell LMJ, Sainsbury CAR, Jones GC
+Journal of Diabetes Nursing 20 (7): 238-243]
+(http://www.thejournalofdiabetesnursing.co.uk/journal-content/view/experience-of-and-predictors-of-response-to-dapagliflozin-in-a-real-life-cohort-of-people-with-type-2-diabetes)
+
 __2015__
 [Capillary blood glucose monitoring, inpatient hypoglycaemia and quality of care
 GC Jones, CG Perry, A Monaghan, B Kennon, CAR Sainsbury
