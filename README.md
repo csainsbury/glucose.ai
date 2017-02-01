@@ -51,7 +51,7 @@ __2016__
 JG Timmons, SG Cunningham, CAR Sainsbury, GC Jones
 Journal of Diabetes and its Complications](http://www.sciencedirect.com/science/article/pii/S1056872716302148)
 
-_2016_
+__2016__
 [Evaluation of a combination of SGLT2 inhibitor and GLP-1 receptor agonist treatment in type 2 diabetes
 Hayden J, Huang F, McConnell LMJ, Sainsbury CAR, Jones GC
 Diabetes & Priamary Care 18 (3): 135-138]
