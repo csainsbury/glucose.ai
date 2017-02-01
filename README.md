@@ -42,6 +42,11 @@ GC Jones, ZM Chong, J Gilmour, C Matheson, G MacGregor, C Sainsbury
 Diabetes Therapy 7 (3), 575-582](http://link.springer.com/article/10.1007/s13300-016-0194-7)
 
 __2016__
+[Metformin increases cortisol regeneration by 11βHSD1 in obese men with and without type 2 diabetes mellitus
+Anderson AJ, Andrew R, Homer NZ, Jones GC, Smith K, Livingstone DE, Walker BR, Stimson RH
+J Clin Endocrinol Metab 101 (10): 3787-3793] (https://doi-org.ezproxy.lib.gla.ac.uk/10.1210/jc.2016-2069)
+
+__2016__
 [Inpatient glycemic variability and long-term mortality in hospitalized patients with type 2 diabetes
 JG Timmons, SG Cunningham, CAR Sainsbury, GC Jones
 Journal of Diabetes and its Complications](http://www.sciencedirect.com/science/article/pii/S1056872716302148)
