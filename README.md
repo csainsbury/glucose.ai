@@ -23,13 +23,11 @@ Journal of Diabetes Science and Technology. DOI: https://doi.org/10.1177/1932296
 
 __2016__
 [A Practical Approach to Glucose Abnormalities in Cystic Fibrosis
-GC Jones, CAR Sainsbury
-Diabetes Therapy, 1-10](https://link.springer.com/article/10.1007/s13300-016-0205-8) [__(pdf)__](https://link.springer.com/content/pdf/10.1007%2Fs13300-016-0205-8.pdf)
+GC Jones, CAR Sainsbury. Diabetes Therapy, 1-10](https://link.springer.com/article/10.1007/s13300-016-0205-8) [__(pdf)__](https://link.springer.com/content/pdf/10.1007%2Fs13300-016-0205-8.pdf)
 
 __2016__
 [Is all hypoglycaemia treated as equal? An observational study of how the type of diabetes and treatment prescribed prior to admission influences quality of treatment of inpatient hypoglycaemia
-GC Jones, J Khan, CAR Sainsbury
-Acta diabetologica, 1-4](https://link.springer.com/article/10.1007/s00592-016-0940-3) [__(pdf)__](https://link.springer.com/content/pdf/10.1007%2Fs00592-016-0940-3.pdf)
+GC Jones, J Khan, CAR Sainsbury. Acta diabetologica, 1-4](https://link.springer.com/article/10.1007/s00592-016-0940-3) [__(pdf)__](https://link.springer.com/content/pdf/10.1007%2Fs00592-016-0940-3.pdf)
 
 __2016__
 [Stroke and diabetes: a dangerous liaison
@@ -77,8 +75,7 @@ Hypertension 66 (1), 37-43](http://hyper.ahajournals.org/content/66/1/37.short) 
 
 __2014__
 [Trends in recorded capillary blood glucose and hypoglycaemia in hospitalised patients with diabetes
-GC Jones, H Casey, CG Perry, B Kennon, CAR Sainsbury
-Diabetes research and clinical practice 104 (1), 79-83](http://www.sciencedirect.com/science/article/pii/S0168822714000515)
+GC Jones, H Casey, CG Perry, B Kennon, CAR Sainsbury. Diabetes research and clinical practice 104 (1), 79-83](http://www.sciencedirect.com/science/article/pii/S0168822714000515)
 
 __2014__
 [Dipeptidyl peptidase 4 inhibitors in routine clinical practice: experiences from a Scottish teaching hospital
