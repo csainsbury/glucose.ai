@@ -73,20 +73,51 @@ __2015__
 GC Jones, CAR Sainsbury
 Diabetic Medicine 32 (2), 287-287](http://onlinelibrary.wiley.com/doi/10.1111/dme.12626/abstract)
 
+__2015__
+[Longitudinal Blood Pressure Control, Long-Term Mortality, and Predictive Utility of Serum Liver Enzymes and Bilirubin in Hypertensive PatientsNovelty and Significance
+L McCallum, J Panniyammakal, CE Hastie, J Hewitt, R Patel, GC Jones, ...
+Hypertension 66 (1), 37-43](http://hyper.ahajournals.org/content/66/1/37.short)
+
 __2014__
 [Trends in recorded capillary blood glucose and hypoglycaemia in hospitalised patients with diabetes
 GC Jones, H Casey, CG Perry, B Kennon, CAR Sainsbury
 Diabetes research and clinical practice 104 (1), 79-83](http://www.sciencedirect.com/science/article/pii/S0168822714000515)
 
 __2014__
+[Dipeptidyl peptidase 4 inhibitors in routine clinical practice: experiences from a Scottish teaching hospital
+AL Brown, CR Sainsbury, C Fenelon, AB Mullen, GC Jones
+British Journal of Diabetes 14 (4), 134-137](http://bjd-abcd.org.uk/index.php/bjd/article/view/38)
+
+__2014__
 [Numerical simulation of blood flow and pressure drop in the pulmonary arterial and venous circulation
 MU Qureshi, GDA Vaughan, C Sainsbury, M Johnson, CS Peskin, MS Olufsen, NA Hill
 Biomechanics and modeling in mechanobiology 13 (5), 1137-1154](http://link.springer.com/article/10.1007/s10237-014-0563-y)
+
+__2013__
+[Long-Term and Ultra Long–Term Blood Pressure Variability During Follow-Up and Mortality in 14 522 Patients With HypertensionNovelty and Significance
+CE Hastie, P Jeemon, H Coleman, L McCallum, R Patel, J Dawson, ...
+Hypertension 62 (4), 698-705]
+(http://hyper.ahajournals.org/content/62/4/698.short)
 
 __2012__
 [Rarefaction and blood pressure in systemic and pulmonary arteries
 MS Olufsen, NA Hill, GDA Vaughan, C Sainsbury, M Johnson
 Journal of fluid mechanics 705, 280-305](http://journals.cambridge.org/article_S0022112012002200)
+
+__2012__
+[Hematocrit Predicts Long-Term Mortality in a Nonlinear and Sex-Specific Manner in Hypertensive AdultsNovelty and Significance
+L Paul, P Jeemon, J Hewitt, L McCallum, P Higgins, M Walters, J McClure, ...
+Hypertension 60 (3), 631-638](http://hyper.ahajournals.org/content/60/3/631.short)
+
+__2012__
+[Boerhaave's syndrome and diabetic ketoacidosis
+K Mitchell, G Jones
+Practical Diabetes 29 (7), 268-268](http://onlinelibrary.wiley.com/doi/10.1002/pdi.1704/full)
+
+__2011__
+AMP-activated protein kinase is activated in adipose tissue of individuals with type 2 diabetes treated with metformin: a randomised glycaemia-controlled crossover study
+JG Boyle, PJ Logan, GC Jones, M Small, N Sattar, JMC Connell, ...
+Diabetologia 54 (7), 1799-1809(http://link.springer.com/article/10.1007/s00125-011-2126-4)
 
 # presentations
 __2016__
