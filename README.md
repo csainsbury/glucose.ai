@@ -39,7 +39,7 @@ British Journal of Diabetes 16 (3), 114-118](http://bjdvd.co.uk/index.php/bjd/ar
 __2016__
 [Patterns and impact of hypoglycemia, hyperglycemia, and glucose variability on inpatients with insulin-treated cystic fibrosis-related diabetes
 GC Jones, ZM Chong, J Gilmour, C Matheson, G MacGregor, C Sainsbury
-Diabetes Therapy 7 (3), 575-582](http://link.springer.com/article/10.1007/s13300-016-0194-7)
+Diabetes Therapy 7 (3), 575-582](http://link.springer.com/article/10.1007/s13300-016-0194-7) [__(pdf)__](https://link.springer.com/content/pdf/10.1007%2Fs13300-016-0194-7.pdf)
 
 __2016__
 [Metformin increases cortisol regeneration by 11βHSD1 in obese men with and without type 2 diabetes mellitus
