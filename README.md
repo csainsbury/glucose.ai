@@ -29,7 +29,7 @@ Diabetes Therapy, 1-10](https://link.springer.com/article/10.1007/s13300-016-020
 __2016__
 [Is all hypoglycaemia treated as equal? An observational study of how the type of diabetes and treatment prescribed prior to admission influences quality of treatment of inpatient hypoglycaemia
 GC Jones, J Khan, CAR Sainsbury
-Acta diabetologica, 1-4](https://link.springer.com/article/10.1007/s00592-016-0940-3)[__pdf__](https://link.springer.com/content/pdf/10.1007%2Fs00592-016-0940-3.pdf)
+Acta diabetologica, 1-4](https://link.springer.com/article/10.1007/s00592-016-0940-3)[__(pdf)__](https://link.springer.com/content/pdf/10.1007%2Fs00592-016-0940-3.pdf)
 
 __2016__
 [Stroke and diabetes: a dangerous liaison
