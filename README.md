@@ -89,3 +89,8 @@ MS Olufsen, NA Hill, GDA Vaughan, C Sainsbury, M Johnson
 Journal of fluid mechanics 705, 280-305](http://journals.cambridge.org/article_S0022112012002200)
 
 # presentations
+__2016__
+[Does type of diabetes, and treatment prescribed prior to admission influence quality of treatment of inpatient hypoglycaemia?
+CAR Sainsbury, J Khan, S Cunningham, GC Jones
+British Endocrine Society Oral]
+(https://drive.google.com/open?id=0B4VqgeAxBb2ZeGJLcDZNZjFMWDA)
