@@ -34,7 +34,7 @@ Acta diabetologica, 1-4](https://link.springer.com/article/10.1007/s00592-016-09
 __2016__
 [Stroke and diabetes: a dangerous liaison
 SL Macpherson, CRR Sainsbury, J Dawson, GC Jones
-British Journal of Diabetes 16 (3), 114-118](http://bjdvd.co.uk/index.php/bjd/article/view/172)
+British Journal of Diabetes 16 (3), 114-118](http://bjdvd.co.uk/index.php/bjd/article/view/172) [__(pdf)__](http://bjdvd.co.uk/index.php/bjd/article/download/172/314)
 
 __2016__
 [Patterns and impact of hypoglycemia, hyperglycemia, and glucose variability on inpatients with insulin-treated cystic fibrosis-related diabetes
