@@ -119,9 +119,12 @@ __2011__
 JG Boyle, PJ Logan, GC Jones, M Small, N Sattar, JMC Connell, ...
 Diabetologia 54 (7), 1799-1809] (http://link.springer.com/article/10.1007/s00125-011-2126-4)
 
-# presentations
+# recent presentations
 __2016__
 [Does type of diabetes, and treatment prescribed prior to admission influence quality of treatment of inpatient hypoglycaemia?
 CAR Sainsbury, J Khan, S Cunningham, GC Jones
 British Endocrine Society Oral]
 (https://drive.google.com/open?id=0B4VqgeAxBb2ZeGJLcDZNZjFMWDA)
+
+
+
