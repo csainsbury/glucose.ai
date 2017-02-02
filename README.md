@@ -8,7 +8,7 @@
 - cystic fibrosis related diabetes
 - [glycaemic streaming](https://github.com/csainsbury/glycaemicStreaming)
 - [cpeptide and risk stratification](https://github.com/csainsbury/cpeptide)
-- application of machine learning to prediction problems. [hypoglycaemia](https://github.com/csainsbury/machineLearning.hypoglycaemiaDuringAdmission)
+- application of machine learning to prediction problems in diabetes: [hypoglycaemia](https://github.com/csainsbury/machineLearning.hypoglycaemiaDuringAdmission)
 
 # people
 - __Dr Chris Sainsbury__ Consultant Diabetes & Endocrinology. @csainsbury. x@y where x=c.sainsbury & y=nhs.net
