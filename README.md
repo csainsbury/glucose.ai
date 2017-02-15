@@ -36,7 +36,7 @@ British Journal of Diabetes 16 (3), 114-118](http://bjdvd.co.uk/index.php/bjd/ar
 
 __2016__
 [Living with asthma and chronic obstructive airways disease: using technology to support self-management – an overview. D Morrison,FS Mair, L Yardley, S Kirby, M Thomas 
-Chronic Respiratory Disease]
+Chronic Respiratory Disease doi 10.1177/1479972316660977]
 (http://journals.sagepub.com/doi/pdf/10.1177/1479972316660977)
 
 __2016__
