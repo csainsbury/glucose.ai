@@ -35,6 +35,11 @@ SL Macpherson, C Sainsbury, J Dawson, GC Jones
 British Journal of Diabetes 16 (3), 114-118](http://bjdvd.co.uk/index.php/bjd/article/view/172) [__(pdf)__](http://bjdvd.co.uk/index.php/bjd/article/download/172/314)
 
 __2016__
+[Living with asthma and chronic obstructive airways disease: using technology to support self-management – an overview. D Morrison,FS Mair, L Yardley, S Kirby, M Thomas 
+Chronic Respiratory Disease]
+(http://journals.sagepub.com/doi/pdf/10.1177/1479972316660977)
+
+__2016__
 [Patterns and impact of hypoglycemia, hyperglycemia, and glucose variability on inpatients with insulin-treated cystic fibrosis-related diabetes
 GC Jones, ZM Chong, J Gilmour, C Matheson, G MacGregor, C Sainsbury
 Diabetes Therapy 7 (3), 575-582](http://link.springer.com/article/10.1007/s13300-016-0194-7) [__(pdf)__](https://link.springer.com/content/pdf/10.1007%2Fs13300-016-0194-7.pdf)
