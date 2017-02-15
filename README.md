@@ -61,7 +61,7 @@ Diabetes & Primary Care 18 (3): 135-138](http://www.diabetesandprimarycare.co.uk
 
 __2016__
 [Managing multimorbidity in primary care in patients with chronic respiratory conditions. npj Primary Care Respiratory Medicine, 26, 16043. 
-[D Morrison,K Agur, S Mercer, A Eiras, JI González-Montalvo, K Gruffydd-Jones
+D Morrison,K Agur, S Mercer, A Eiras, JI González-Montalvo, K Gruffydd-Jones
 Primary Care Respiratory Medicine, 26, 16043] (http://www.nature.com/articles/npjpcrm201643)
 
 __2016__
