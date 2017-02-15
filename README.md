@@ -58,10 +58,12 @@ __2016__
 [Evaluation of a combination of SGLT2 inhibitor and GLP-1 receptor agonist treatment in type 2 diabetes
 Hayden J, Huang F, McConnell LMJ, Sainsbury CAR, Jones GC
 Diabetes & Primary Care 18 (3): 135-138](http://www.diabetesandprimarycare.co.uk/journal-content/view/evaluation-of-a-combination-of-sglt2-inhibitor-and-glp-1-receptor-agonist-treatment-in-type-2-diabetes)
+
 __2016__
 [Managing multimorbidity in primary care in patients with chronic respiratory conditions. npj Primary Care Respiratory Medicine, 26, 16043. 
 [D Morrison,K Agur, S Mercer, A Eiras, JI González-Montalvo, K Gruffydd-Jones
 Primary Care Respiratory Medicine, 26, 16043. (doi:10.1038/npjpcrm.2016.43)] (http://www.nature.com/articles/npjpcrm201643)
+
 __2016__
 [Experience of and predictors of response to dapagliflozin in a real-life cohort of people with type 2 diabetes 
 Huang F, Hayden J, McConnell LMJ, Sainsbury CAR, Jones GC
