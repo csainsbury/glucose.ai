@@ -94,7 +94,7 @@ British Journal of Diabetes 14 (4), 134-137](http://bjd-abcd.org.uk/index.php/bj
 __2014__
 [Numerical simulation of blood flow and pressure drop in the pulmonary arterial and venous circulation
 MU Qureshi, GDA Vaughan, C Sainsbury, M Johnson, CS Peskin, MS Olufsen, NA Hill
-Biomechanics and modeling in mechanobiology 13 (5), 1137-1154 ] (http://link.springer.com/article/10.1007/s10237-014-0563-y)
+Biomechanics and modeling in mechanobiology 13 (5), 1137-1154 ](http://link.springer.com/article/10.1007/s10237-014-0563-y)
 
 __2013__
 [Long-Term and Ultra Long–Term Blood Pressure Variability During Follow-Up and Mortality in 14 522 Patients With Hypertension. CE Hastie, P Jeemon, H Coleman, L McCallum, R Patel, J Dawson, W Sloan, P Meredith, GC Jones, S Muir, M Walters, AF Dominiczak, D Morrison, GT McInnes, S Padmanabhan
