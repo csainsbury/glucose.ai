@@ -36,8 +36,7 @@ British Journal of Diabetes 16 (3), 114-118](http://bjdvd.co.uk/index.php/bjd/ar
 
 __2016__
 [Living with asthma and chronic obstructive airways disease: using technology to support self-management – an overview. D Morrison,FS Mair, L Yardley, S Kirby, M Thomas 
-Chronic Respiratory Disease doi 10.1177/1479972316660977]
-(http://journals.sagepub.com/doi/pdf/10.1177/1479972316660977)
+Chronic Respiratory Disease doi 10.1177/1479972316660977](http://journals.sagepub.com/doi/pdf/10.1177/1479972316660977)
 
 __2016__
 [Patterns and impact of hypoglycemia, hyperglycemia, and glucose variability on inpatients with insulin-treated cystic fibrosis-related diabetes
@@ -62,7 +61,7 @@ Diabetes & Primary Care 18 (3): 135-138](http://www.diabetesandprimarycare.co.uk
 __2016__
 [Managing multimorbidity in primary care in patients with chronic respiratory conditions. npj Primary Care Respiratory Medicine, 26, 16043. 
 D Morrison,K Agur, S Mercer, A Eiras, JI González-Montalvo, K Gruffydd-Jones
-Primary Care Respiratory Medicine, 26, 16043] (http://www.nature.com/articles/npjpcrm201643)
+Primary Care Respiratory Medicine, 26, 16043](http://www.nature.com/articles/npjpcrm201643)
 
 __2016__
 [Experience of and predictors of response to dapagliflozin in a real-life cohort of people with type 2 diabetes 
