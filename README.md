@@ -121,7 +121,8 @@ JG Boyle, PJ Logan, GC Jones, M Small, N Sattar, JMC Connell, ...
 Diabetologia 54 (7), 1799-1809](http://link.springer.com/article/10.1007/s00125-011-2126-4)
 
 # recent presentations
-__2017__ [Admission Glucose Number (AGN): A novel point-of-admission score associated with prolonged admission duration, and with glycaemic characteristics in patients with Type 1 Diabetes. R Maitland, R Srivastava, S Cunningham, G Jones, C Sainsbury. 2017. ATTD, Paris. Oral Presentation](./glucose_ai_presentation_files/ATTD2017_3.pdf)
+__2017__ 
+[Admission Glucose Number (AGN): A novel point-of-admission score associated with prolonged admission duration, and with glycaemic characteristics in patients with Type 1 Diabetes. R Maitland, R Srivastava, S Cunningham, G Jones, C Sainsbury. 2017. ATTD, Paris. Oral Presentation](./glucose_ai_presentation_files/ATTD2017_3.pdf)
 
 __2016__
 [Does type of diabetes, and treatment prescribed prior to admission influence quality of treatment of inpatient hypoglycaemia?
