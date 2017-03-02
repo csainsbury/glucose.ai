@@ -121,6 +121,11 @@ JG Boyle, PJ Logan, GC Jones, M Small, N Sattar, JMC Connell, ...
 Diabetologia 54 (7), 1799-1809](http://link.springer.com/article/10.1007/s00125-011-2126-4)
 
 # recent presentations
+__2017__[Admission Glucose Number (AGN): a novel score associated with adverse outcomes in patients admitted with Type 2 Diabetes. CAR Sainsbury, SG Cunningham, R Srivastava, GC Jones. Poster Presentation. Diabetes UK, Manchester 2017](./glucose_ai_presentation_files/duk_agn_17)
+
+__2017__
+[Glucose variability and risk of hypoglycaemia amongst inpatients with type 2 diabetes and its relationship to drug class exposure. KM Fairhurst, SG Cunningham, CAR Sainsbury, GC Jones. Poster Presentation. Diabetes UK, Manchester 2017](./glucose_ai_presentation_files/DiabUK17_Drug_class_poster.pdf)
+
 __2017__
 [Does pre-admission HbA1c predict inpatient glucose characteristics and outcomes in patients with diabetes? M Talla, SG Cunningham, CAR Sainsbury, GC Jones. Poster Presentation. Diabetes UK. Manchester March 2017](./glucose_ai_presentation_files/Diab UK HbA1c Inpatient Glucose Characteristics.pdf)
 
