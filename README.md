@@ -122,7 +122,7 @@ Diabetologia 54 (7), 1799-1809](http://link.springer.com/article/10.1007/s00125-
 
 # recent presentations
 __2017__
-[Admission Glucose Number (AGN): a novel score associated with adverse outcomes in patients admitted with Type 2 Diabetes. CAR Sainsbury, SG Cunningham, R Srivastava, GC Jones. Poster Presentation. Diabetes UK, Manchester 2017](./glucose_ai_presentation_files/duk_agn_17)
+[Admission Glucose Number (AGN): a novel score associated with adverse outcomes in patients admitted with Type 2 Diabetes. CAR Sainsbury, SG Cunningham, R Srivastava, GC Jones. Poster Presentation. Diabetes UK, Manchester 2017](./glucose_ai_presentation_files/duk_agn_17.pdf)
 
 __2017__
 [Glucose variability and risk of hypoglycaemia amongst inpatients with type 2 diabetes and its relationship to drug class exposure. KM Fairhurst, SG Cunningham, CAR Sainsbury, GC Jones. Poster Presentation. Diabetes UK, Manchester 2017](./glucose_ai_presentation_files/DiabUK17_Drug_class_poster.pdf)
