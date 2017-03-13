@@ -135,4 +135,4 @@ __2017__
 
 __2016__
 [Does type of diabetes, and treatment prescribed prior to admission influence quality of treatment of inpatient hypoglycaemia?
-CAR Sainsbury, J Khan, GC Jones. British Endocrine Society Oral](./glucose_ai_presentation_files/BES.pdf)
+CAR Sainsbury, J Khan, GC Jones. British Endocrine Society. Oral Presentation](./glucose_ai_presentation_files/BES.pdf)
