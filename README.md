@@ -18,6 +18,9 @@
 
 # output
 __2017__
+A practical review of C-Peptide Testing in Diabetes. E Leighton, C Sainsbury, G Jones. Diabetes Ther DOI 10.1007/s13300-017-0265-4 [__pdf__](http://rdcu.be/rSgE)
+
+__2017__
 [Hypoglycemia and Clinical Outcomes in Hospitalized Patients With Diabetes: Does Association With Adverse Outcomes Remain When Number of Glucose Tests Performed Is Accounted For?
 GC Jones, JG Timmons, SG Cunningham, SJ Cleland, CAR Sainsbury
 Journal of Diabetes Science and Technology. DOI: https://doi.org/10.1177/1932296816688012](http://journals.sagepub.com/doi/abs/10.1177/1932296816688012) [__(pdf)__](http://journals.sagepub.com/doi/pdf/10.1177/1932296816688012)
