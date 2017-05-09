@@ -8,6 +8,7 @@
 - cystic fibrosis related diabetes
 - [glycaemic streaming](https://github.com/csainsbury/glycaemicStreaming)
 - multiscale variability in glucose metrics and association with outcome
+- [efficacy of structured intervention on glycaemic endpoints](https://github.com/csainsbury/DICE)
 - [cpeptide and risk stratification](https://github.com/csainsbury/cpeptide)
 - application of machine learning to various prediction problems in diabetes: (i) [hypoglycaemia during admission](https://github.com/csainsbury/machineLearning.hypoglycaemiaDuringAdmission), (ii) prior prescribed drug sequence and mortality, (iii) prior prescribed drug sequence and mortality and predicton of response to subsequent agents
 
