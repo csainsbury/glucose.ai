@@ -127,6 +127,9 @@ Diabetologia 54 (7), 1799-1809](http://link.springer.com/article/10.1007/s00125-
 
 # recent presentations
 __2017__
+[Non-stimulated c-peptide is independently associated with requirement at 1 year for insulin therapy in paitnets with diabetes. A retrospective cohort study of 872 patients. EL Leighton, K Smith, SG Cunningham, CAR Sainsbury, GC Jones. Poster Presentation, EES, Lisbon 2017](./glucose_ai_presentation_files/cpepposterforECE2017.pdf)
+
+__2017__
 [Admission Glucose Number (AGN): a novel score associated with adverse outcomes in patients admitted with Type 2 Diabetes. CAR Sainsbury, SG Cunningham, R Srivastava, GC Jones. Poster Presentation. Diabetes UK, Manchester 2017](./glucose_ai_presentation_files/duk_agn_17.pdf)
 
 __2017__
