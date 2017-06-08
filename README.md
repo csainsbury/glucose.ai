@@ -127,6 +127,9 @@ Diabetologia 54 (7), 1799-1809](http://link.springer.com/article/10.1007/s00125-
 
 # recent presentations
 __2017__
+[Serum chloride is a mortality risk predictor in type 2 diabetes mellitus – analysis of 91,159 patients in the West of Scotland. Linsay McCallum, Christopher A Sainsbury Gregory C Jones, Sandosh Padmanabhan. Oral Presentation, ESH, Milan 2017](./glucose_ai_presentation_files/ESH_Cl_diabetes_050617.pdf)
+
+__2017__
 [Non-stimulated c-peptide is independently associated with requirement at 1 year for insulin therapy in paitnets with diabetes. A retrospective cohort study of 872 patients. EL Leighton, K Smith, SG Cunningham, CAR Sainsbury, GC Jones. Poster Presentation, ECE, Lisbon 2017](./glucose_ai_presentation_files/cpepposterforECE2017.pdf)
 
 __2017__
