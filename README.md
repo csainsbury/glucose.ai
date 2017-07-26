@@ -19,6 +19,8 @@
 
 # output
 __2017__
+HbA1c variability is associated with increased mortality and earlier hospital admission in people with type 1 diabetes. Graham S Walker, Scott G Cunningham, Christopher A.R. Sainsbury, Gregory C. Jones. Accepted for publication. Diabetic Medicine
+__2017__
 [A practical review of C-Peptide Testing in Diabetes. E Leighton, C Sainsbury, G Jones. Diabetes Ther DOI 10.1007/s13300-017-0265-4 ](https://link.springer.com/article/10.1007%2Fs13300-017-0265-4)[__(pdf)__](http://rdcu.be/rSgE)
 
 __2017__
