@@ -1,16 +1,15 @@
 # interest areas
 
-- inpatient glucose measurement and analysis
+- application of machine learning to various prediction problems in diabetes: (i) [hypoglycaemia during admission](https://github.com/csainsbury/machineLearning.hypoglycaemiaDuringAdmission), (ii) prior prescribed drug sequence and mortality, (iii) prior prescribed drug sequence and mortality and predicton of response to subsequent agents - inpatient glucose measurement and analysis
+
 - risk stratification of inpatients with diabetes
 - association of inpatient glucose metrics and long term outcomes
 - mechanisms linking glucose and CV risk in diabetes
 - [problem drug use and diabetes](https://github.com/csainsbury/problemDrugUse.diabetes)
 - cystic fibrosis related diabetes
-- [glycaemic streaming](https://github.com/csainsbury/glycaemicStreaming)
 - multiscale variability in glucose metrics and association with outcome
 - [efficacy of structured intervention on glycaemic endpoints](https://github.com/csainsbury/DICE)
 - [cpeptide and risk stratification](https://github.com/csainsbury/cpeptide)
-- application of machine learning to various prediction problems in diabetes: (i) [hypoglycaemia during admission](https://github.com/csainsbury/machineLearning.hypoglycaemiaDuringAdmission), (ii) prior prescribed drug sequence and mortality, (iii) prior prescribed drug sequence and mortality and predicton of response to subsequent agents
 
 # people
 - __Dr Chris Sainsbury__ Consultant Diabetes & Endocrinology. @csainsbury. x@y where x=c.sainsbury & y=nhs.net
