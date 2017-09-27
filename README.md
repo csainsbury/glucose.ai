@@ -1,9 +1,9 @@
 # interest areas
 - use of Recurrent Neural Networks / Convolutional Neural Networks to extract information from time-series data in diabetes to allow regression/classification analysis. Applications include [prediction of mortality from HbA1c time series analysis](https://github.com/csainsbury/bagOfDrugs/tree/master/local_py), [prediction of inpatient outcomes from pre-admission data](https://github.com/csainsbury/machineLearning.hypoglycaemiaDuringAdmission) and [individualised virtual n=1 drug trials to allow optimum drug selection](https://github.com/csainsbury/bagOfDrugs)
 
-- [use of unsupervised ML algorithms to identify incorrected entered data within large scale diabetes atasets]https://github.com/csainsbury/t1_t2_ANN)
+- [use of unsupervised ML algorithms to identify incorrected entered data within large scale diabetes atasets](https://github.com/csainsbury/t1_t2_ANN)
 
-- risk stratification of inpatients with diabetes
+- continuous risk stratification of inpatients with diabetes
 - association of inpatient glucose metrics and long term outcomes
 - mechanisms linking glucose and CV risk in diabetes
 - [problem drug use and diabetes](https://github.com/csainsbury/problemDrugUse.diabetes)
