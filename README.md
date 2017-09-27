@@ -1,6 +1,7 @@
 # interest areas
+- use of Recurrent Neural Networks / Convolutional Neural Networks to extract information from time-series data in diabetes to allow regression/classification analysis. Applications include [rediction of mortality from HbA1c time series]analysis(https://github.com/csainsbury/bagOfDrugs/tree/master/local_py)[prediction of inpatient outcomes from pre-admission data](https://github.com/csainsbury/machineLearning.hypoglycaemiaDuringAdmission) and [individualised virtual n=1 drug trials to allow optimum drug selection](https://github.com/csainsbury/bagOfDrugs)
 
-- application of machine learning to various prediction problems in diabetes: (i) [hypoglycaemia during admission](https://github.com/csainsbury/machineLearning.hypoglycaemiaDuringAdmission), (ii) prior prescribed drug sequence and mortality, (iii) prior prescribed drug sequence and mortality and predicton of response to subsequent agents - inpatient glucose measurement and analysis
+- [use of unsupervised ML algorithms to identify incorrected entered data within large scale diabetes atasets]https://github.com/csainsbury/t1_t2_ANN)
 
 - risk stratification of inpatients with diabetes
 - association of inpatient glucose metrics and long term outcomes
@@ -9,7 +10,7 @@
 - cystic fibrosis related diabetes
 - multiscale variability in glucose metrics and association with outcome
 - [efficacy of structured intervention on glycaemic endpoints](https://github.com/csainsbury/DICE)
-- [cpeptide and risk stratification](https://github.com/csainsbury/cpeptide)
+
 
 # people
 - __Dr Chris Sainsbury__ Consultant Diabetes & Endocrinology. @csainsbury. x@y where x=c.sainsbury & y=nhs.net
