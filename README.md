@@ -130,8 +130,10 @@ Diabetologia 54 (7), 1799-1809](http://link.springer.com/article/10.1007/s00125-
 
 # recent presentations
 __2017__
-[Diabetes and opiate replacement therapy (ORT). A retrospective cohort study of healthcare usage and clinical outcomes. H Druce, R Lowrie, C Ritchie, D Morrison, CAR Sainsbury, GC Jones. Poster Presentation, EASD, Lisbon 2017](./glucose_ai_presentation_files/easd17.pdf)
+[Glucose dynamics and mortality in RRT patients: an initial report. Matthew A Rutherford, Gregory C Jones, Alan G Jardine, Patrick B Mark, Peter C Thomson, Christopher AR Sainsbury. Oral Presentation, SRA, Dunblane 2017](./glucose_ai_presentation_files/RRTglycaemiaSRA.pdf)
 
+__2017__
+[Diabetes and opiate replacement therapy (ORT). A retrospective cohort study of healthcare usage and clinical outcomes. H Druce, R Lowrie, C Ritchie, D Morrison, CAR Sainsbury, GC Jones. Poster Presentation, EASD, Lisbon 2017](./glucose_ai_presentation_files/easd17.pdf)
 
 __2017__
 [Serum chloride predicts mortality risk in type 2 diabetes – analysis of 91,159 patients from the West of Scotland. Linsay McCallum, Christopher A Sainsbury, Gregory C Jones, Sandosh Padmanabhan. AHA, 2017](./glucose_ai_presentation_files/AHA_Cl_diabetes_040917_SP.pdf)
