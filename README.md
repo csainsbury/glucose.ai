@@ -132,6 +132,9 @@ Diabetologia 54 (7), 1799-1809](http://link.springer.com/article/10.1007/s00125-
 
 # recent presentations
 __2017__
+[MyDiabetesIQ. machine learning for decision support & outcome prediction in diabetes](./glucose_ai_presentation_files/MyDiabetesIQ_birmingham_dec17.pdf)
+
+__2017__
 [Diabetes and opiate replacement therapy (ORT). A retrospective cohort study of health care usage and clinical outcomes. H Druce, D Morrison, C Sainsbury, R Lowrie, C Ritchie, GC Jones. Oral Presentation. RCGP, London](./glucose_ai_presentation_files/171103_RCGP_MDA_DM_london_slides_presented.pdf)
 
 __2017__
