@@ -21,6 +21,9 @@
 
 # output
 __2017__
+[Visit-to-visit HbA1c variability and systolic blood pressure (SBP) variability are significantly and additively associated with mortality in people with type 1 diabetes: an observational study. Stuart S. Wightman, Christopher A.R. Sainsbury, Gregory C. Jones. Diabetes Obesity & Metabolism: DOI: 10.1111/dom.13193](http://onlinelibrary.wiley.com/doi/10.1111/dom.13193/full)
+
+__2017__
 [HbA1c variability is associated with increased mortality and earlier hospital admission in people with type 1 diabetes. Graham S Walker, Scott G Cunningham, Christopher A.R. Sainsbury, Gregory C. Jones. Diabetic Medicine 10.1111/dme.13455](http://onlinelibrary.wiley.com/doi/10.1111/dme.13455/full)
 
 __2017__
