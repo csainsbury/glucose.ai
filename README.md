@@ -20,7 +20,7 @@
 - __Dr Debbie Morrison__ GPSI Diabetes. Honorary Clinical Lecturer
 
 # output
-__2017__
+__2018__
 [Visit-to-visit HbA1c variability and systolic blood pressure (SBP) variability are significantly and additively associated with mortality in people with type 1 diabetes: an observational study. Stuart S. Wightman, Christopher A.R. Sainsbury, Gregory C. Jones. Diabetes Obesity & Metabolism: DOI: 10.1111/dom.13193](http://onlinelibrary.wiley.com/doi/10.1111/dom.13193/full)
 
 __2017__
