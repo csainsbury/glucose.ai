@@ -21,6 +21,9 @@
 
 # output
 __2018__
+Structured education using Dose Adjustment for Normal Eating (DAFNE) reduces long term HbA1c and HbA1c variability. GS Walker, JY Chen, H Hopkinson, CAR Sainsbury, GC Jones. 2018. Accepted by Diabetic Medicine
+
+__2018__
 [Visit-to-visit HbA1c variability and systolic blood pressure (SBP) variability are significantly and additively associated with mortality in people with type 1 diabetes: an observational study. Stuart S. Wightman, Christopher A.R. Sainsbury, Gregory C. Jones. Diabetes Obesity & Metabolism: DOI: 10.1111/dom.13193](http://onlinelibrary.wiley.com/doi/10.1111/dom.13193/full)
 
 __2017__
