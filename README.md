@@ -138,7 +138,7 @@ JG Boyle, PJ Logan, GC Jones, M Small, N Sattar, JMC Connell, ...
 
 # recent presentations
 __2018__
-[Parallel time-series analysis of HbA1c, Systolic Blood Pressure and BMI using Recurrent Neural Networks stratifies for 1-year mortality in T2DM, independent of age and parameter variability](./glucose_ai_presentation_files/ATTD_poster_1.pdf)
+[Parallel time-series analysis of HbA1c, Systolic Blood Pressure and BMI using Recurrent Neural Networks stratifies for 1-year mortality in T2DM, independent of age and parameter variability. ATTD. Vienna](./glucose_ai_presentation_files/ATTD_poster_1.pdf)
 
 __2018__
 [Time-series analysis of HbA1c using Recurrent Neural Networks stratifies for 1-year mortality in Type 1 and Type 2 Diabetes, independent of age and variability. ATTD. Vienna](./glucose_ai_presentation_files/ATTD_poster_1.pdf)
