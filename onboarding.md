@@ -17,3 +17,6 @@ some of the best online resources include: [machine learning mastery](https://ma
 ### recommended IDEs
 - [R studio](https://www.rstudio.com/): best for R
 - [atom](https://atom.io/): best for python
+
+### workflow
+we use [slack](https://diabetesresearch.slack.com/messages/) for communication, [trello](https://trello.com) for project organisation and [google docs](https://www.google.com/docs/about/) for writing collaboratively. this ensures that there is only ever a single copy of any document.
