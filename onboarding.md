@@ -21,6 +21,8 @@ some of the best online resources include: [machine learning mastery](https://ma
 ### workflow
 we use [slack](https://diabetesresearch.slack.com/messages/) for communication, [trello](https://trello.com) for project organisation and [google docs](https://www.google.com/docs/about/) for writing collaboratively. this ensures that there is only ever a single copy of any document.
 
+my [github repository](https://github.com/csainsbury), where most code should be available.
+
 ### previous output/documents
 - 2017 [Ruth Muir MSc Project](./glucose_ai_presentation_files/MLdiagnosis_project.pdf)
 - [Machine-Learning (neural network) driven algorithmic classification of Type 1 or Type 2 diabetes at the time of presentation significantly outperforms experienced clinician classification](./glucose_ai_presentation_files/DUK_poster_2.pdf)
