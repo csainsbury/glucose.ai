@@ -9,8 +9,12 @@ some of the best online resources include: [machine learning mastery](https://ma
 - [francois chollet on twitter](https://twitter.com/fchollet)
 - [ian goodfellow on twitter](https://twitter.com/goodfellow_ian)
 
-### the languages and libraries we use
+### languages and libraries
 - [R](https://www.r-project.org/)
 - [python](https://www.python.org/)
 - [keras](https://keras.io/)
 - [tensorflow](https://www.tensorflow.org/)
+
+### recommended IDEs
+- [R studio](https://www.rstudio.com/) best for R
+- [atom](https://atom.io/) best for python
