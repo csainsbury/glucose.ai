@@ -16,5 +16,5 @@ some of the best online resources include: [machine learning mastery](https://ma
 - [tensorflow](https://www.tensorflow.org/)
 
 ### recommended IDEs
-- [R studio](https://www.rstudio.com/) best for R
-- [atom](https://atom.io/) best for python
+- [R studio](https://www.rstudio.com/): best for R
+- [atom](https://atom.io/): best for python
