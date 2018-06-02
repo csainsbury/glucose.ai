@@ -20,3 +20,11 @@ some of the best online resources include: [machine learning mastery](https://ma
 
 ### workflow
 we use [slack](https://diabetesresearch.slack.com/messages/) for communication, [trello](https://trello.com) for project organisation and [google docs](https://www.google.com/docs/about/) for writing collaboratively. this ensures that there is only ever a single copy of any document.
+
+### previous output/documents
+- 2017 [Ruth Muir MSc Project](https://github.com/csainsbury/glucose.ai/blob/master/glucose_ai_presentation_files/MLdiagnosis_project.pdf)
+- [Machine-Learning (neural network) driven algorithmic classification of Type 1 or Type 2 diabetes at the time of presentation significantly outperforms experienced clinician classification](./glucose_ai_presentation_files/DUK_poster_2.pdf)
+- [Parallel time-series analysis of HbA1c and Systolic BP using a recurrent neural network (RNN) stratifies for 1-year mortality in Type 2 Diabetes independent of age and parameter variability. DUK. London](./glucose_ai_presentation_files/DUK_poster_1.pdf)
+- [Parallel time-series analysis of HbA1c, Systolic Blood Pressure and BMI using Recurrent Neural Networks stratifies for 1-year mortality in T2DM, independent of age and parameter variability. ATTD. Vienna](./glucose_ai_presentation_files/ATTD_poster_1.pdf)
+- [Time-series analysis of HbA1c using Recurrent Neural Networks stratifies for 1-year mortality in Type 1 and Type 2 Diabetes, independent of age and variability. ATTD. Vienna](./glucose_ai_presentation_files/ATTD_poster_1.pdf)
+- [MyDiabetesIQ. machine learning for decision support & outcome prediction in diabetes. Automated Clinical Epidemiology Studies workshop, University of Birmingham. 141217](./glucose_ai_presentation_files/MyDiabetesIQ_birmingham_dec17.pdf)
