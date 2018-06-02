@@ -1,2 +1,2 @@
-# interest areas
-- [myDiabetesIQ](http://www.mywaydigitalhealth.co.uk/)
+# onboarding
+- [deep learning with python](https://www.manning.com/books/deep-learning-with-python)
