@@ -39,30 +39,26 @@ Journal of Diabetes Science and Technology | [__web__](http://journals.sagepub.c
 
 __2016__
 A Practical Approach to Glucose Abnormalities in Cystic Fibrosis
-GC Jones, CAR Sainsbury | [__web__](https://link.springer.com/article/10.1007/s13300-016-0205-8) [__.pdf__](https://link.springer.com/content/pdf/10.1007%2Fs13300-016-0205-8.pdf)
+GC Jones, CAR Sainsbury | [__web__](https://link.springer.com/article/10.1007/s13300-016-0205-8) | [__.pdf__](https://link.springer.com/content/pdf/10.1007%2Fs13300-016-0205-8.pdf)
 
 __2016__
 Is all hypoglycaemia treated as equal? An observational study of how the type of diabetes and treatment prescribed prior to admission influences quality of treatment of inpatient hypoglycaemia
-GC Jones, J Khan, CAR Sainsbury. [Acta diabetologica, 1-4](https://link.springer.com/article/10.1007/s00592-016-0940-3) [__(pdf)__](https://link.springer.com/content/pdf/10.1007%2Fs00592-016-0940-3.pdf)
+GC Jones, J Khan, CAR Sainsbury | [__web__](https://link.springer.com/article/10.1007/s00592-016-0940-3) | [__.pdf__](https://link.springer.com/content/pdf/10.1007%2Fs00592-016-0940-3.pdf)
 
 __2016__
 Stroke and diabetes: a dangerous liaison
-SL Macpherson, C Sainsbury, J Dawson, GC Jones
-[British Journal of Diabetes 16 (3), 114-118](http://bjdvd.co.uk/index.php/bjd/article/view/172) [__(pdf)__](http://bjdvd.co.uk/index.php/bjd/article/download/172/314)
+SL Macpherson, C Sainsbury, J Dawson, GC Jones | [__web__](http://bjdvd.co.uk/index.php/bjd/article/view/172) | [__.pdf__](http://bjdvd.co.uk/index.php/bjd/article/download/172/314)
 
 __2016__
-Living with asthma and chronic obstructive airways disease: using technology to support self-management – an overview. D Morrison,FS Mair, L Yardley, S Kirby, M Thomas 
-[Chronic Respiratory Disease doi 10.1177/1479972316660977](http://journals.sagepub.com/doi/pdf/10.1177/1479972316660977)
+Living with asthma and chronic obstructive airways disease: using technology to support self-management – an overview. D Morrison,FS Mair, L Yardley, S Kirby, M Thomas | [__web__](http://journals.sagepub.com/doi/pdf/10.1177/1479972316660977)
 
 __2016__
 Patterns and impact of hypoglycemia, hyperglycemia, and glucose variability on inpatients with insulin-treated cystic fibrosis-related diabetes
-GC Jones, ZM Chong, J Gilmour, C Matheson, G MacGregor, C Sainsbury
-[Diabetes Therapy 7 (3), 575-582](http://link.springer.com/article/10.1007/s13300-016-0194-7) [__(pdf)__](https://link.springer.com/content/pdf/10.1007%2Fs13300-016-0194-7.pdf)
+GC Jones, ZM Chong, J Gilmour, C Matheson, G MacGregor, C Sainsbury | [__web__](http://link.springer.com/article/10.1007/s13300-016-0194-7) | [__.pdf__](https://link.springer.com/content/pdf/10.1007%2Fs13300-016-0194-7.pdf)
 
 __2016__
 Metformin increases cortisol regeneration by 11βHSD1 in obese men with and without type 2 diabetes mellitus
-Anderson AJ, Andrew R, Homer NZ, Jones GC, Smith K, Livingstone DE, Walker BR, Stimson RH
-[J Clin Endocrinol Metab 101 (10): 3787-3793](http://press.endocrine.org/doi/abs/10.1210/jc.2016-2069)
+Anderson AJ, Andrew R, Homer NZ, Jones GC, Smith K, Livingstone DE, Walker BR, Stimson RH | [__web__](http://press.endocrine.org/doi/abs/10.1210/jc.2016-2069)
 
 __2016__
 Inpatient glycemic variability and long-term mortality in hospitalized patients with type 2 diabetes
