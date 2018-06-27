@@ -35,11 +35,11 @@ A practical review of C-Peptide Testing in Diabetes. E Leighton, C Sainsbury, G 
 __2017__
 Hypoglycemia and Clinical Outcomes in Hospitalized Patients With Diabetes: Does Association With Adverse Outcomes Remain When Number of Glucose Tests Performed Is Accounted For?
 GC Jones, JG Timmons, SG Cunningham, SJ Cleland, CAR Sainsbury
-Journal of Diabetes Science and Technology. [DOI: https://doi.org/10.1177/1932296816688012](http://journals.sagepub.com/doi/abs/10.1177/1932296816688012) [__(pdf)__](http://journals.sagepub.com/doi/pdf/10.1177/1932296816688012)
+Journal of Diabetes Science and Technology | [__web__](http://journals.sagepub.com/doi/abs/10.1177/1932296816688012) | [__.pdf__](http://journals.sagepub.com/doi/pdf/10.1177/1932296816688012)
 
 __2016__
 A Practical Approach to Glucose Abnormalities in Cystic Fibrosis
-GC Jones, CAR Sainsbury. [Diabetes Therapy, 1-10](https://link.springer.com/article/10.1007/s13300-016-0205-8) [__(pdf)__](https://link.springer.com/content/pdf/10.1007%2Fs13300-016-0205-8.pdf)
+GC Jones, CAR Sainsbury | [__web__](https://link.springer.com/article/10.1007/s13300-016-0205-8) [__.pdf__](https://link.springer.com/content/pdf/10.1007%2Fs13300-016-0205-8.pdf)
 
 __2016__
 Is all hypoglycaemia treated as equal? An observational study of how the type of diabetes and treatment prescribed prior to admission influences quality of treatment of inpatient hypoglycaemia
