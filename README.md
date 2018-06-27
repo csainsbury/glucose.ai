@@ -138,7 +138,10 @@ JG Boyle, PJ Logan, GC Jones, M Small, N Sattar, JMC Connell, ...
 
 # recent presentations
 __2018__
-[Machine-Learning (neural network) driven algorithmic classification of Type 1 or Type 2 diabetes at the time of presentation significantly outperforms experienced clinician classification](./glucose_ai_presentation_files/DUK_poster_2.pdf)
+[Machine learning approaches to (i) predicting response to therapy in diabetes, (ii) data-driven diabetes subtype classification and (iii) synthetic data generation. Dundee. 210618](./glucose_ai_presentation_files/dundeeJune18.pdf)
+
+__2018__
+[Machine-Learning (neural network) driven algorithmic classification of Type 1 or Type 2 diabetes at the time of presentation significantly outperforms experienced clinician classification. DUK. London](./glucose_ai_presentation_files/DUK_poster_2.pdf)
 
 __2018__
 [Parallel time-series analysis of HbA1c and Systolic BP using a recurrent neural network (RNN) stratifies for 1-year mortality in Type 2 Diabetes independent of age and parameter variability. DUK. London](./glucose_ai_presentation_files/DUK_poster_1.pdf)
