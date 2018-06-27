@@ -150,41 +150,41 @@ __2018__
 Parallel time-series analysis of HbA1c, Systolic Blood Pressure and BMI using Recurrent Neural Networks stratifies for 1-year mortality in T2DM, independent of age and parameter variability. ATTD. Vienna | [__.pdf__](./glucose_ai_presentation_files/ATTD_poster_1.pdf)
 
 __2018__
-[Time-series analysis of HbA1c using Recurrent Neural Networks stratifies for 1-year mortality in Type 1 and Type 2 Diabetes, independent of age and variability. ATTD. Vienna](./glucose_ai_presentation_files/ATTD_poster_1.pdf)
+Time-series analysis of HbA1c using Recurrent Neural Networks stratifies for 1-year mortality in Type 1 and Type 2 Diabetes, independent of age and variability. ATTD. Vienna | [__.pdf__](./glucose_ai_presentation_files/ATTD_poster_1.pdf)
 
 __2017__
-[MyDiabetesIQ. machine learning for decision support & outcome prediction in diabetes. Automated Clinical Epidemiology Studies workshop, University of Birmingham. 141217](./glucose_ai_presentation_files/MyDiabetesIQ_birmingham_dec17.pdf)
+MyDiabetesIQ. machine learning for decision support & outcome prediction in diabetes. Automated Clinical Epidemiology Studies workshop, University of Birmingham. 141217 | [__.pdf__](./glucose_ai_presentation_files/MyDiabetesIQ_birmingham_dec17.pdf)
 
 __2017__
-[Diabetes and opiate replacement therapy (ORT). A retrospective cohort study of health care usage and clinical outcomes. H Druce, D Morrison, C Sainsbury, R Lowrie, C Ritchie, GC Jones. Oral Presentation. RCGP, London](./glucose_ai_presentation_files/171103_RCGP_MDA_DM_london_slides_presented.pdf)
+Diabetes and opiate replacement therapy (ORT). A retrospective cohort study of health care usage and clinical outcomes. H Druce, D Morrison, C Sainsbury, R Lowrie, C Ritchie, GC Jones. Oral Presentation. RCGP, London | [__.pdf__](./glucose_ai_presentation_files/171103_RCGP_MDA_DM_london_slides_presented.pdf)
 
 __2017__
-[Glucose dynamics and mortality in RRT patients: an initial report. Matthew A Rutherford, Gregory C Jones, Alan G Jardine, Patrick B Mark, Peter C Thomson, Christopher AR Sainsbury. Oral Presentation, SRA, Dunblane 2017](./glucose_ai_presentation_files/RRTglycaemiaSRA.pdf)
+Glucose dynamics and mortality in RRT patients: an initial report. Matthew A Rutherford, Gregory C Jones, Alan G Jardine, Patrick B Mark, Peter C Thomson, Christopher AR Sainsbury. Oral Presentation, SRA, Dunblane 2017 | [__.pdf__](./glucose_ai_presentation_files/RRTglycaemiaSRA.pdf)
 
 __2017__
-[Diabetes and opiate replacement therapy (ORT). A retrospective cohort study of healthcare usage and clinical outcomes. H Druce, R Lowrie, C Ritchie, D Morrison, CAR Sainsbury, GC Jones. Poster Presentation, EASD, Lisbon 2017](./glucose_ai_presentation_files/easd17.pdf)
+Diabetes and opiate replacement therapy (ORT). A retrospective cohort study of healthcare usage and clinical outcomes. H Druce, R Lowrie, C Ritchie, D Morrison, CAR Sainsbury, GC Jones. Poster Presentation, EASD, Lisbon 2017 | [__.pdf__](./glucose_ai_presentation_files/easd17.pdf)
 
 __2017__
-[Serum chloride predicts mortality risk in type 2 diabetes – analysis of 91,159 patients from the West of Scotland. Linsay McCallum, Christopher A Sainsbury, Gregory C Jones, Sandosh Padmanabhan. AHA, 2017](./glucose_ai_presentation_files/AHA_Cl_diabetes_040917_SP.pdf)
+Serum chloride predicts mortality risk in type 2 diabetes – analysis of 91,159 patients from the West of Scotland. Linsay McCallum, Christopher A Sainsbury, Gregory C Jones, Sandosh Padmanabhan. AHA, 2017 | [__.pdf__](./glucose_ai_presentation_files/AHA_Cl_diabetes_040917_SP.pdf)
 
 __2017__
-[Serum chloride is a mortality risk predictor in type 2 diabetes mellitus – analysis of 91,159 patients in the West of Scotland. Linsay McCallum, Christopher A Sainsbury Gregory C Jones, Sandosh Padmanabhan. Oral Presentation, ESH, Milan 2017](./glucose_ai_presentation_files/ESH_Cl_diabetes_050617.pdf)
+Serum chloride is a mortality risk predictor in type 2 diabetes mellitus – analysis of 91,159 patients in the West of Scotland. Linsay McCallum, Christopher A Sainsbury Gregory C Jones, Sandosh Padmanabhan. Oral Presentation, ESH, Milan 2017 | [__.pdf__](./glucose_ai_presentation_files/ESH_Cl_diabetes_050617.pdf)
 
 __2017__
-[Non-stimulated c-peptide is independently associated with requirement at 1 year for insulin therapy in paitnets with diabetes. A retrospective cohort study of 872 patients. EL Leighton, K Smith, SG Cunningham, CAR Sainsbury, GC Jones. Poster Presentation, ECE, Lisbon 2017](./glucose_ai_presentation_files/cpepposterforECE2017.pdf)
+Non-stimulated c-peptide is independently associated with requirement at 1 year for insulin therapy in paitnets with diabetes. A retrospective cohort study of 872 patients. EL Leighton, K Smith, SG Cunningham, CAR Sainsbury, GC Jones. Poster Presentation, ECE, Lisbon 2017 | [__.pdf__](./glucose_ai_presentation_files/cpepposterforECE2017.pdf)
 
 __2017__
-[Admission Glucose Number (AGN): a novel score associated with adverse outcomes in patients admitted with Type 2 Diabetes. CAR Sainsbury, SG Cunningham, R Srivastava, GC Jones. Poster Presentation. Diabetes UK, Manchester 2017](./glucose_ai_presentation_files/duk_agn_17.pdf)
+Admission Glucose Number (AGN): a novel score associated with adverse outcomes in patients admitted with Type 2 Diabetes. CAR Sainsbury, SG Cunningham, R Srivastava, GC Jones. Poster Presentation. Diabetes UK, Manchester 2017 | [__.pdf__](./glucose_ai_presentation_files/duk_agn_17.pdf)
 
 __2017__
-[Glucose variability and risk of hypoglycaemia amongst inpatients with type 2 diabetes and its relationship to drug class exposure. KM Fairhurst, SG Cunningham, CAR Sainsbury, GC Jones. Poster Presentation. Diabetes UK, Manchester 2017](./glucose_ai_presentation_files/DiabUK17_Drug_class_poster.pdf)
+Glucose variability and risk of hypoglycaemia amongst inpatients with type 2 diabetes and its relationship to drug class exposure. KM Fairhurst, SG Cunningham, CAR Sainsbury, GC Jones. Poster Presentation. Diabetes UK, Manchester 2017 | [__.pdf__](./glucose_ai_presentation_files/DiabUK17_Drug_class_poster.pdf)
 
 __2017__
-[Does pre-admission HbA1c predict inpatient glucose characteristics and outcomes in patients with diabetes? M Talla, SG Cunningham, CAR Sainsbury, GC Jones. Poster Presentation. Diabetes UK. Manchester March 2017](./glucose_ai_presentation_files/Diab UK HbA1c Inpatient Glucose Characteristics.pdf)
+Does pre-admission HbA1c predict inpatient glucose characteristics and outcomes in patients with diabetes? M Talla, SG Cunningham, CAR Sainsbury, GC Jones. Poster Presentation. Diabetes UK. Manchester March 2017 | [__.pdf__](./glucose_ai_presentation_files/Diab UK HbA1c Inpatient Glucose Characteristics.pdf)
 
 __2017__ 
-[Admission Glucose Number (AGN): A novel point-of-admission score associated with prolonged admission duration, and with glycaemic characteristics in patients with Type 1 Diabetes. R Maitland, R Srivastava, S Cunningham, G Jones, C Sainsbury. 2017. ATTD, Paris. Oral Presentation](./glucose_ai_presentation_files/ATTD2017_3.pdf)
+Admission Glucose Number (AGN): A novel point-of-admission score associated with prolonged admission duration, and with glycaemic characteristics in patients with Type 1 Diabetes. R Maitland, R Srivastava, S Cunningham, G Jones, C Sainsbury. 2017. ATTD, Paris. Oral Presentation | [__.pdf__](./glucose_ai_presentation_files/ATTD2017_3.pdf)
 
 __2016__
-[Does type of diabetes, and treatment prescribed prior to admission influence quality of treatment of inpatient hypoglycaemia?
-CAR Sainsbury, J Khan, GC Jones. British Endocrine Society. Oral Presentation](./glucose_ai_presentation_files/BES.pdf)
+Does type of diabetes, and treatment prescribed prior to admission influence quality of treatment of inpatient hypoglycaemia?
+CAR Sainsbury, J Khan, GC Jones. British Endocrine Society. Oral Presentation | [__.pdf__](./glucose_ai_presentation_files/BES.pdf)
