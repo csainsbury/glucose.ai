@@ -21,16 +21,16 @@
 
 # output
 __2018__
-Structured education using Dose Adjustment for Normal Eating (DAFNE) reduces long term HbA1c and HbA1c variability. GS Walker, JY Chen, H Hopkinson, CAR Sainsbury, GC Jones. 2018. Diabetic Medicine. [https://doi.org/10.1111/dme.13621](https://onlinelibrary.wiley.com/doi/full/10.1111/dme.13621)
+Structured education using Dose Adjustment for Normal Eating (DAFNE) reduces long term HbA1c and HbA1c variability. GS Walker, JY Chen, H Hopkinson, CAR Sainsbury, GC Jones. 2018. Diabetic Medicine | [__web__](https://onlinelibrary.wiley.com/doi/full/10.1111/dme.13621)
 
 __2018__
-Visit-to-visit HbA1c variability and systolic blood pressure (SBP) variability are significantly and additively associated with mortality in people with type 1 diabetes: an observational study. Stuart S. Wightman, Christopher A.R. Sainsbury, Gregory C. Jones. Diabetes Obesity & Metabolism: [DOI: 10.1111/dom.13193](http://onlinelibrary.wiley.com/doi/10.1111/dom.13193/full)
+Visit-to-visit HbA1c variability and systolic blood pressure (SBP) variability are significantly and additively associated with mortality in people with type 1 diabetes: an observational study. Stuart S. Wightman, Christopher A.R. Sainsbury, Gregory C. Jones. Diabetes Obesity & Metabolism | [__web__](http://onlinelibrary.wiley.com/doi/10.1111/dom.13193/full)
 
 __2017__
-HbA1c variability is associated with increased mortality and earlier hospital admission in people with type 1 diabetes. Graham S Walker, Scott G Cunningham, Christopher A.R. Sainsbury, Gregory C. Jones. Diabetic Medicine [10.1111/dme.13455](http://onlinelibrary.wiley.com/doi/10.1111/dme.13455/full)
+HbA1c variability is associated with increased mortality and earlier hospital admission in people with type 1 diabetes. Graham S Walker, Scott G Cunningham, Christopher A.R. Sainsbury, Gregory C. Jones. Diabetic Medicine | [__web__](http://onlinelibrary.wiley.com/doi/10.1111/dme.13455/full)
 
 __2017__
-A practical review of C-Peptide Testing in Diabetes. E Leighton, C Sainsbury, G Jones. Diabetes Ther [DOI 10.1007/s13300-017-0265-4](https://link.springer.com/article/10.1007%2Fs13300-017-0265-4)[__(pdf)__](http://rdcu.be/rSgE)
+A practical review of C-Peptide Testing in Diabetes. E Leighton, C Sainsbury, G Jones. Diabetes Ther | [__web__](https://link.springer.com/article/10.1007%2Fs13300-017-0265-4) | [__.pdf__](http://rdcu.be/rSgE)
 
 __2017__
 Hypoglycemia and Clinical Outcomes in Hospitalized Patients With Diabetes: Does Association With Adverse Outcomes Remain When Number of Glucose Tests Performed Is Accounted For?
