@@ -21,7 +21,7 @@
 
 # output
 __2018__
-Identifying modifiable risk factors to reduce inpatient hypoglycaemia. PD Murray, BA McKee, CAR Sainsbury, GC Jones. Clinical Pharmacist, August 2018, Vol 10, No 8, online | DOI: 10.1211/CP.2018.20205227 [__web__](https://www.pharmaceutical-journal.com/research/research-article/identifying-modifiable-risk-factors-to-reduce-inpatient-hypoglycaemia/20205227.article?firstPass=false)
+Identifying modifiable risk factors to reduce inpatient hypoglycaemia. PD Murray, BA McKee, CAR Sainsbury, GC Jones. Clinical Pharmacist, August 2018, Vol 10, No 8, online | DOI: 10.1211/CP.2018.20205227 | [__web__](https://www.pharmaceutical-journal.com/research/research-article/identifying-modifiable-risk-factors-to-reduce-inpatient-hypoglycaemia/20205227.article?firstPass=false)
 
 __2018__
 Structured education using Dose Adjustment for Normal Eating (DAFNE) reduces long term HbA1c and HbA1c variability. GS Walker, JY Chen, H Hopkinson, CAR Sainsbury, GC Jones. 2018. Diabetic Medicine | [__web__](https://onlinelibrary.wiley.com/doi/full/10.1111/dme.13621)
