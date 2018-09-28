@@ -21,7 +21,7 @@
 
 # output
 __2018__
-Admission Glucose Number (AGN): A point of admission score associated with inpatient glucose variability, hypoglycaemia and mortality. J McKechnie, R Maitland, CAR Sainsbury, GC Jones. Journal of Diabetes Science and Technology (in press)
+Admission Glucose Number (AGN): A point of admission score associated with inpatient glucose variability, hypoglycaemia and mortality. J McKechnie, R Maitland, CAR Sainsbury, GC Jones. Journal of Diabetes Science and Technology | https://doi.org/10.1177/1932296818800722 | [__web__](http://journals.sagepub.com/doi/full/10.1177/1932296818800722)
 
 __2018__
 Identifying modifiable risk factors to reduce inpatient hypoglycaemia. PD Murray, BA McKee, CAR Sainsbury, GC Jones. Clinical Pharmacist, August 2018, Vol 10, No 8, online | DOI: 10.1211/CP.2018.20205227 | [__web__](https://www.pharmaceutical-journal.com/research/research-article/identifying-modifiable-risk-factors-to-reduce-inpatient-hypoglycaemia/20205227.article?firstPass=false)
