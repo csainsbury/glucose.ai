@@ -142,6 +142,7 @@ JG Boyle, PJ Logan, GC Jones, M Small, N Sattar, JMC Connell, ...
 # recent presentations
 __2019__
 data landscape presentation. march 2019 | [__.pdf__](./glucose_ai_presentation_files/dataLandscape.pdf)
+
 __2018__
 Machine learning approaches to (i) predicting response to therapy in diabetes, (ii) data-driven diabetes subtype classification and (iii) synthetic data generation. Dundee. 210618 | [__.pdf__](./glucose_ai_presentation_files/dundeeJune18.pdf) | [__.ppt__](./glucose_ai_presentation_files/dundeeJune18.pptx)
 
