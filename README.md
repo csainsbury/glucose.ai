@@ -21,6 +21,9 @@
 - __Dr Sean Harbison__ Clinical Development Fellow
 
 # output
+__2019__
+Thyroid replacement therapy, thyroid stimulating hormone concentrations, and long term health outcomes in patients with hypothyroidism: longitudinal study. R Thayakaran, NJ Adderley, C Sainsbury, B Torlinska, K Boelaert, D Šumilo, M Price, GN Thomas, KA Toulis, K Nirantharakumar. BMJ 2019; 366 doi: https://doi.org/10.1136/bmj.l4892 [  web  ](https://www.bmj.com/content/366/bmj.l4892)
+
 __2018__
 Admission Glucose Number (AGN): A point of admission score associated with inpatient glucose variability, hypoglycaemia and mortality. J McKechnie, R Maitland, CAR Sainsbury, GC Jones. Journal of Diabetes Science and Technology | https://doi.org/10.1177/1932296818800722 | [__web__](http://journals.sagepub.com/doi/full/10.1177/1932296818800722)
 
