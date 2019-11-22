@@ -144,7 +144,7 @@ JG Boyle, PJ Logan, GC Jones, M Small, N Sattar, JMC Connell, ...
 
 # recent presentations
 __2019__
-Predicting mortality in both diabetes and open source clinical datasets from free text entries using machine learning (natural language processing) | Diabetes Technology Society. November 2019. Washington DC | [__.pdf__](./glucose)
+Predicting mortality in both diabetes and open source clinical datasets from free text entries using machine learning (natural language processing) | Diabetes Technology Society. November 2019. Washington DC | [__.pdf__](./glucose_ai_presentation_files/DTS_poster.pdf)
 
 __2019__
 data landscape presentation. march 2019 | [__.pdf__](./glucose_ai_presentation_files/dataLandscape.pdf)
