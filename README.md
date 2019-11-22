@@ -142,9 +142,12 @@ AMP-activated protein kinase is activated in adipose tissue of individuals with 
 JG Boyle, PJ Logan, GC Jones, M Small, N Sattar, JMC Connell, ...
 [Diabetologia 54 (7), 1799-1809](http://link.springer.com/article/10.1007/s00125-011-2126-4) 
 
-# recent presentations
+# presentations
 __2019__
 Predicting mortality in both diabetes and open source clinical datasets from free text entries using machine learning (natural language processing) | Diabetes Technology Society. November 2019. Washington DC | [__.pdf__](./glucose_ai_presentation_files/DTS_poster.pdf)
+
+__2019__
+personalising risk prediction in diabetes using machine learning bridging the gap between RCT and RCD | Royal College of Physicians and Surgeons (Glasgow) | May 2019. Glasgow | [__.pdf__](./glucose_ai_presentation_files/rcpsg_dmml.pdf)
 
 __2019__
 data landscape presentation. march 2019 | [__.pdf__](./glucose_ai_presentation_files/dataLandscape.pdf)
