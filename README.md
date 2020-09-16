@@ -24,7 +24,11 @@ __Previous__
 
 # output
 __2020__
+Remodelling diabetes services and emerging innovation. DJ Wake, FW Gibb, P Kar, B Kennon, DC Klonoff, G Rayman, MK Rutter, C Sainsbury, RK Semple. European Journal of Endocrinology 183 (2). [__web__](https://eje.bioscientifica.com/view/journals/eje/183/2/EJE-20-0377.xml)
+
+__2020__
 Obstructive Sleep Apnea, a Risk Factor for Cardiovascular and Microvascular Disease in Patients With Type 2 Diabetes: Findings From a Population-Based Cohort StudyNJ Adderley, A Subramanian, K Toulis, K Gokhale, T Taverner, W Hanif, S Haroon, GN Thomas, C Sainsbury, AA Tahrani, K Nirantharakumar. Diabetes Care | https://doi.org/10.2337/dc19-2116 | [__web__](https://care.diabetesjournals.org/content/early/2020/04/17/dc19-2116.abstract)
+
 __2019__
 Thyroid replacement therapy, thyroid stimulating hormone concentrations, and long term health outcomes in patients with hypothyroidism: longitudinal study. R Thayakaran, NJ Adderley, C Sainsbury, B Torlinska, K Boelaert, D Šumilo, M Price, GN Thomas, KA Toulis, K Nirantharakumar. BMJ 2019; 366 | https://doi.org/10.1136/bmj.l4892 | [__web__](https://www.bmj.com/content/366/bmj.l4892)
 
