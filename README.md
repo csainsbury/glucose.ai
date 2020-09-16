@@ -15,12 +15,16 @@
 
 
 # people
+__Current__
 - __[Dr Chris Sainsbury](https://www.birmingham.ac.uk/staff/profiles/applied-health/sainsbury-chris.aspx)__ Consultant Diabetes & Endocrinology. @csainsbury. x@y where x=c.sainsbury & y=nhs.net
 - __Dr Greg Jones__ Consultant Diabetes & Endocrinology. Honorary Associate Professor, @gregcjones. x@y where x=g.jones3 & y=nhs.net
 - __Dr Debbie Morrison__ GPSI Diabetes. Honorary Clinical Lecturer
+__Previous__
 - __Dr Sean Harbison__ Clinical Development Fellow
 
 # output
+__2020__
+Obstructive Sleep Apnea, a Risk Factor for Cardiovascular and Microvascular Disease in Patients With Type 2 Diabetes: Findings From a Population-Based Cohort StudyNJ Adderley, A Subramanian, K Toulis, K Gokhale, T Taverner, W Hanif, S Haroon, GN Thomas, C Sainsbury, AA Tahrani, K Nirantharakumar. Diabetes Care | https://doi.org/10.2337/dc19-2116 | [__web__](https://care.diabetesjournals.org/content/early/2020/04/17/dc19-2116.abstract)
 __2019__
 Thyroid replacement therapy, thyroid stimulating hormone concentrations, and long term health outcomes in patients with hypothyroidism: longitudinal study. R Thayakaran, NJ Adderley, C Sainsbury, B Torlinska, K Boelaert, D Šumilo, M Price, GN Thomas, KA Toulis, K Nirantharakumar. BMJ 2019; 366 | https://doi.org/10.1136/bmj.l4892 | [__web__](https://www.bmj.com/content/366/bmj.l4892)
 
