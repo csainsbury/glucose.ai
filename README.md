@@ -16,10 +16,13 @@
 
 # people
 __Current__
+
 - __[Dr Chris Sainsbury](https://www.birmingham.ac.uk/staff/profiles/applied-health/sainsbury-chris.aspx)__ Consultant Diabetes & Endocrinology. @csainsbury. x@y where x=c.sainsbury & y=nhs.net
 - __Dr Greg Jones__ Consultant Diabetes & Endocrinology. Honorary Associate Professor, @gregcjones. x@y where x=g.jones3 & y=nhs.net
 - __Dr Debbie Morrison__ GPSI Diabetes. Honorary Clinical Lecturer
+
 __Previous__
+
 - __Dr Sean Harbison__ Clinical Development Fellow
 
 # output
