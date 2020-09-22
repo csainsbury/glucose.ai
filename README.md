@@ -27,6 +27,10 @@ __Previous__
 
 # output
 __2020__
+Renin-angiotensin system inhibitors and susceptibility to COVID-19 in patients with hypertension: a propensity score-matched cohort study in primary care. S Haroon,A Subramanian,J Cooper, A Anand, K Gokhale, N Byne, S Dhalla, D Acosta-Mena, T Taverner, K Okoth, J Wang, J Singh Chandan, C Sainsbury, D Zemedikun, GN Thomas,D Parekh, T Marshall, E Sapey, NJ Adderley, K Nirantharakumar
+[__web__](https://www.medrxiv.org/content/10.1101/2020.09.17.20196469v1)
+
+__2020__
 Remodelling diabetes services and emerging innovation. DJ Wake, FW Gibb, P Kar, B Kennon, DC Klonoff, G Rayman, MK Rutter, C Sainsbury, RK Semple. European Journal of Endocrinology 183 (2). [__web__](https://eje.bioscientifica.com/view/journals/eje/183/2/EJE-20-0377.xml)
 
 __2020__
