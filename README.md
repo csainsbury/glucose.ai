@@ -28,7 +28,7 @@ __Previous__
 # output
 __2020__
 Sodium‐glucose‐co‐transporter‐2 inhibitors and susceptibility to COVID‐19: a population‐based retrospective cohort study. C Sainsbury, J Wang, K Gokhale, D Acosta‐Mena, S Dhalla, N Byne, J Singh Chandan, A Anand, J Cooper, K Okoth, A Subramanian, M Bangash, T Taverner, W Hanif, S Ghosh, P Narendran, KK Cheng, Tom Marshall, G Gkoutos, K Toulis PhD, GN Thomas PhD, A Tahrani, N Adderley, S Haroon, K Nirantharakumar. Diabetes Obesity and Metabolism 2020.  https://doi.org/10.1111/dom.14203 
-[__web__] https://doi.org/10.1111/dom.14203)
+[__web__](https://doi.org/10.1111/dom.14203)
 
 __2020__
 Renin-angiotensin system inhibitors and susceptibility to COVID-19 in patients with hypertension: a propensity score-matched cohort study in primary care. S Haroon,A Subramanian,J Cooper, A Anand, K Gokhale, N Byne, S Dhalla, D Acosta-Mena, T Taverner, K Okoth, J Wang, J Singh Chandan, C Sainsbury, D Zemedikun, GN Thomas,D Parekh, T Marshall, E Sapey, NJ Adderley, K Nirantharakumar. Preprint. Medrxiv. 18 Sep 2020. 
