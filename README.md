@@ -26,8 +26,13 @@ __Previous__
 - __Dr Sean Harbison__ Clinical Development Fellow
 
 # output
+__2021__
+Social Deprivation and Incident Diabetes-Related Foot Disease in Patients With Type 2 Diabetes: A Population-Based Cohort Study. Jenny Riley, Christina Antza, Punith Kempegowda, Anuradhaa Subramanian, Joht Singh Chandan, Krishna Gokhale, Neil Thomas, Christopher Sainsbury, Abd A. Tahrani, Krishnarajah Nirantharakumar. Diabetes Care. 2021. https://doi.org/10.2337/dc20-1027
+[__web__](https://doi.org/10.2337/dc20-1027)
+
 __2020__
 Non‐steroidal anti‐inflammatory drugs and susceptibility to COVID‐19. Joht Singh Chandan, Dawit Tefra Zemedikun, Rasiah Thayakaran, Nathan Byne, Samir Dhalla, Dionisio Acosta‐Mena, Krishna M Gokhale, Tom Thomas, Christopher Sainsbury, Anuradhaa Subramanian, Jennifer Cooper, Astha Anand, Kelvin O Okoth, Jingya Wang, Nicola J Adderley, Thomas Taverner, Alastair K Denniston, Janet Lord, G. Neil Thomas, Christopher D Buckley, Karim Raza, Neeraj Bhala, Krishnarajah Nirantharakumar, Shamil Haroon. Arthritis and Rheumatology. 2020. https://doi.org/10.1002/art.41593
+[__web__](https://doi.org/10.1002/art.41593)
 
 __2020__
 Sodium‐glucose‐co‐transporter‐2 inhibitors and susceptibility to COVID‐19: a population‐based retrospective cohort study. C Sainsbury, J Wang, K Gokhale, D Acosta‐Mena, S Dhalla, N Byne, J Singh Chandan, A Anand, J Cooper, K Okoth, A Subramanian, M Bangash, T Taverner, W Hanif, S Ghosh, P Narendran, KK Cheng, Tom Marshall, G Gkoutos, K Toulis PhD, GN Thomas PhD, A Tahrani, N Adderley, S Haroon, K Nirantharakumar. Diabetes Obesity and Metabolism 2020.  https://doi.org/10.1111/dom.14203 
