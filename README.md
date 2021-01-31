@@ -27,6 +27,10 @@ __Previous__
 
 # output
 __2021__
+Development and external validation of prognostic models for COVID-19 to support risk stratification in secondary care. Nicola J Adderley, Thomas Taverner, Malcolm Price, Christopher Sainsbury, David Greenwood, Joht Singh Chandan, Yemisi Takwoingi, Rashan Haniffa, Isaac Hosier, Carly Welch, Dhruv Parekh, Suzy Gallier, Krishna M Gokhale, Alastair K Denniston, Elizabeth Sapey, Krishnarajah Nirantharakumar. Preprint. Medrxiv. 30 Jan 2021.
+[__web__](https://doi.org/10.1101/2021.01.25.21249942)
+
+__2021__
 Social Deprivation and Incident Diabetes-Related Foot Disease in Patients With Type 2 Diabetes: A Population-Based Cohort Study. Jenny Riley, Christina Antza, Punith Kempegowda, Anuradhaa Subramanian, Joht Singh Chandan, Krishna Gokhale, Neil Thomas, Christopher Sainsbury, Abd A. Tahrani, Krishnarajah Nirantharakumar. Diabetes Care. 2021. https://doi.org/10.2337/dc20-1027
 [__web__](https://doi.org/10.2337/dc20-1027)
 
