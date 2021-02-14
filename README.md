@@ -27,6 +27,10 @@ __Previous__
 
 # output
 __2021__
+Association of metformin with susceptibility to COVID-19 in people with Type 2 diabetes. J Wang, J Cooper, K Gokhale, D Acosta-Mena, S Dhalla, N Byne, J Singh Chandan, A Anand, K Okoth, A Subramanian, MN Bangash, T Jackson, D Zemedikun, T Taverner, W Hanif, S Ghosh, P Narendran, K Toulis, A Tahrani, R Surenthirakumaran, NJ Adderley, S Haroon, K Khunti, C Sainsbury, GN Thomas, K Nirantharakumar. The Journal of Clinical Endocrinology & Metabolism. 2021.
+[__web__](https://doi.org/10.1210/clinem/dgab067)
+
+__2021__
 Development and external validation of prognostic models for COVID-19 to support risk stratification in secondary care. Nicola J Adderley, Thomas Taverner, Malcolm Price, Christopher Sainsbury, David Greenwood, Joht Singh Chandan, Yemisi Takwoingi, Rashan Haniffa, Isaac Hosier, Carly Welch, Dhruv Parekh, Suzy Gallier, Krishna M Gokhale, Alastair K Denniston, Elizabeth Sapey, Krishnarajah Nirantharakumar. Preprint. Medrxiv. 30 Jan 2021.
 [__web__](https://doi.org/10.1101/2021.01.25.21249942)
 
