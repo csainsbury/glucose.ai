@@ -14,7 +14,6 @@
 - [efficacy of structured intervention on glycaemic endpoints](https://github.com/csainsbury/DICE)
 - clustering within type 2 diabetes
 - synthetic clinical data generation using gan
-- 
 
 
 # people
