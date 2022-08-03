@@ -15,6 +15,8 @@
 - clustering within type 2 diabetes
 - synthetic clinical data generation using gan
 
+Onboarding information [here](https://glucose.ai/onboarding.md)
+
 
 # people
 __Current__
