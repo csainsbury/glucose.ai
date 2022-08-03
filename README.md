@@ -14,8 +14,9 @@
 - [efficacy of structured intervention on glycaemic endpoints](https://github.com/csainsbury/DICE)
 - clustering within type 2 diabetes
 - synthetic clinical data generation using gan
+- prediction of steroid induced hyperglycaemia
 
-Onboarding information [here](https://glucose.ai/onboarding)
+
 
 
 # people
@@ -25,6 +26,9 @@ __Current__
 - __Dr Greg Jones__ Consultant Diabetes & Endocrinology. Honorary Associate Professor, @gregcjones. x@y where x=greg.jones & y=nhs.scot
 - __Dr Debbie Morrison__ GPSI Diabetes. Honorary Clinical Lecturer
 - __Dr Conor Pádraig McKeag__ Clinical Research Fellow. x@y where x=conor.mckeag & y=ggc.scot.nhs.uk
+- __Dr Hannah Barker__ Academic Foundation Trainee
+
+Onboarding information [here](https://glucose.ai/onboarding)
 
 __Previous__
 
