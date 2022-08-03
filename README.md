@@ -12,14 +12,17 @@
 - cystic fibrosis related diabetes
 - multiscale variability in glucose metrics and association with outcome
 - [efficacy of structured intervention on glycaemic endpoints](https://github.com/csainsbury/DICE)
+- clustering within type 2 diabetes
+- synthetic clinical data generation using gan
 
 
 # people
 __Current__
 
-- __[Dr Chris Sainsbury](https://www.birmingham.ac.uk/staff/profiles/applied-health/sainsbury-chris.aspx)__ Consultant Diabetes & Endocrinology. @csainsbury. x@y where x=c.sainsbury & y=nhs.net
-- __Dr Greg Jones__ Consultant Diabetes & Endocrinology. Honorary Associate Professor, @gregcjones. x@y where x=g.jones3 & y=nhs.net
+- __[Dr Chris Sainsbury](https://www.birmingham.ac.uk/staff/profiles/applied-health/sainsbury-chris.aspx)__ Consultant Diabetes & Endocrinology. @csainsbury. x@y where x=christopher.sainsbury & y=ggc.scot.nhs.uk
+- __Dr Greg Jones__ Consultant Diabetes & Endocrinology. Honorary Associate Professor, @gregcjones. x@y where x=greg.jones & y=nhs.scot
 - __Dr Debbie Morrison__ GPSI Diabetes. Honorary Clinical Lecturer
+- __Dr Conor Pádraig McKeag__ Clinical Research Fellow. x@y where x=conor.mckeag & y=ggc.scot.nhs.uk
 
 __Previous__
 
