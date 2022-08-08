@@ -1,6 +1,4 @@
-# output
-
-publications from group members 2017-present
+# output - publications from group members 2017-present
 
 __2022__
 Greenwood, David, Thomas Taverner, Nicola J. Adderley, Malcolm James Price, Krishna Gokhale, Christopher Sainsbury, Suzy Gallier, et al. 2022. “Machine Learning of COVID-19 Clinical Data Identifies Population Structures with Therapeutic Potential.” iScience 25 (7): 104480.
