@@ -35,6 +35,24 @@ __Previous__
 - __Dr Sean Harbison__ Clinical Development Fellow
 
 # output
+__2022__
+Greenwood, David, Thomas Taverner, Nicola J. Adderley, Malcolm James Price, Krishna Gokhale, Christopher Sainsbury, Suzy Gallier, et al. 2022. “Machine Learning of COVID-19 Clinical Data Identifies Population Structures with Therapeutic Potential.” iScience 25 (7): 104480.
+
+__2022__
+Wang, Zhaonan, Jonathan Hazlehurst, Anuradhaa Subramanian, Abd A. Tahrani, Wasim Hanif, Neil Thomas, Pushpa Singh, et al. 2022. “Diabetic Foot Risk Classification at the Time of Type 2 Diabetes Diagnosis and Subsequent Risk of Mortality: A Population-Based Cohort Study.” Frontiers in Endocrinology 13 (July): 888924.
+
+__2022__
+Gokhale, Krishna, Samiul A. Mostafa, Jingya Wang, Abd A. Tahrani, Christopher Andrew Sainsbury, Konstantinos A. Toulis, G. Neil Thomas, et al. 2022. “The Clinical Profile and Associated Mortality in People with and without Diabetes with Coronavirus Disease 2019 on Admission to Acute Hospital Services.” Endocrinology, Diabetes & Metabolism 5 (1): e00309.
+
+__2022__
+Adderley, Nicola J., Thomas Taverner, Malcolm James Price, Christopher Sainsbury, David Greenwood, Joht Singh Chandan, Yemisi Takwoingi, et al. 2022. “Development and External Validation of Prognostic Models for COVID-19 to Support Risk Stratification in Secondary Care.” BMJ Open 12 (1): e049506.
+
+__2021__
+Haroon, Shamil, Anuradhaa Subramanian, Jennifer Cooper, Astha Anand, Krishna Gokhale, Nathan Byne, Samir Dhalla, et al. 2021. “Renin-Angiotensin System Inhibitors and Susceptibility to COVID-19 in Patients with Hypertension: A Propensity Score-Matched Cohort Study in Primary Care.” BMC Infectious Diseases 21 (1): 262.
+
+__2021__
+Subramanian, Anuradhaa, Astha Anand, Nicola J. Adderley, Kelvin Okoth, Konstantinos A. Toulis, Krishna Gokhale, Christopher Sainsbury, Michael W. O’Reilly, Wiebke Arlt, and Krishnarajah Nirantharakumar. 2021. “Increased COVID-19 Infections in Women with Polycystic Ovary Syndrome: A Population-Based Study.” European Journal of Endocrinology / European Federation of Endocrine Societies 184 (5): 637–45.
+
 __2021__
 Association of metformin with susceptibility to COVID-19 in people with Type 2 diabetes. J Wang, J Cooper, K Gokhale, D Acosta-Mena, S Dhalla, N Byne, J Singh Chandan, A Anand, K Okoth, A Subramanian, MN Bangash, T Jackson, D Zemedikun, T Taverner, W Hanif, S Ghosh, P Narendran, K Toulis, A Tahrani, R Surenthirakumaran, NJ Adderley, S Haroon, K Khunti, C Sainsbury, GN Thomas, K Nirantharakumar. The Journal of Clinical Endocrinology & Metabolism. 2021.
 [__web__](https://doi.org/10.1210/clinem/dgab067)
