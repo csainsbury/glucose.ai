@@ -36,7 +36,7 @@ __Previous__
 
 # output
 __2022__
-A Subramanian, K Gokhale, C Sainsbury, K Nirantharakumar, KA Toulis. Sodium-glucose cotransporter-2 inhibitors and the risk of gout in patients with type 2 diabetes mellitus: A propensity-score-matched, new-user design study with an active comparator using the IQVIA Medical Research Data UK database. 2022. Diabetes, Obesity and Metabolism. https://doi.org/10.1111/dom.14858
+A Subramanian, K Gokhale, C Sainsbury, K Nirantharakumar, KA Toulis. Sodium-glucose cotransporter-2 inhibitors and the risk of gout in patients with type 2 diabetes mellitus: A propensity-score-matched, new-user design study with an active comparator using the IQVIA Medical Research Data UK database. 2022. Diabetes, Obesity and Metabolism. [__https://doi.org/10.1111/dom.14858__](https://doi.org/10.1111/dom.14858)
 
 __2022__
 Greenwood, David, Thomas Taverner, Nicola J. Adderley, Malcolm James Price, Krishna Gokhale, Christopher Sainsbury, Suzy Gallier, et al. 2022. “Machine Learning of COVID-19 Clinical Data Identifies Population Structures with Therapeutic Potential.” iScience 25 (7): 104480.
