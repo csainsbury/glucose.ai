@@ -38,8 +38,12 @@ __Previous__
 __2023__
 Clarissa Gardner, Deborah Wake, Doogie Brodie, Alex Silverstein, Sophie Young, Scott Cunningham, Chris Sainsbury, Maria Ilia, Amanda Lucas, Tony Willis, Jack Halligan. Evaluation of prototype risk prediction tools for clinicians and people living with type 2 diabetes in North West London using the think aloud method. [__https://doi.org/10.1177/20552076221128677__](https://doi.org/10.1177/20552076221128677)
 
-__2022__
+__2023__
 A Subramanian, K Gokhale, C Sainsbury, K Nirantharakumar, KA Toulis. Sodium-glucose cotransporter-2 inhibitors and the risk of gout in patients with type 2 diabetes mellitus: A propensity-score-matched, new-user design study with an active comparator using the IQVIA Medical Research Data UK database. 2022. Diabetes, Obesity and Metabolism. [__https://doi.org/10.1111/dom.14858__](https://doi.org/10.1111/dom.14858)
+
+__2022__
+Risk of progression from pre‐diabetes to type 2 diabetes in a large UK adult cohort
+MP Gardner, J Wang, JM Hazlehurst, C Sainsbury, J Blissett, K Nirantharakumar, N Thomas, S Bellary. 2022. Risk of progression from pre‐diabetes to type 2 diabetes in a large UK adult cohort. Diabetic medicine. [__https://doi.org/10.1111/dme.14996__](https://doi.org/10.1111/dme.14996)
 
 __2022__
 Greenwood, David, Thomas Taverner, Nicola J. Adderley, Malcolm James Price, Krishna Gokhale, Christopher Sainsbury, Suzy Gallier, et al. 2022. “Machine Learning of COVID-19 Clinical Data Identifies Population Structures with Therapeutic Potential.” iScience 25 (7): 104480.
